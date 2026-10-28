@@ -1,0 +1,1820 @@
+{
+  "id": "paciencia",
+  "titulo": "PACIENCIA",
+  "subtitulo": "El arte de aprender a tardar",
+  "version_contenido": 1,
+  "idioma": "es-ES",
+  "aviso": "Programa educativo de autoaprendizaje; no es psicoterapia, tratamiento ni herramienta diagnóstica. Las actividades son opcionales y adaptables.",
+  "ritmo": {
+    "semanas_sugeridas": 12,
+    "sesiones_totales": 84,
+    "bloqueo_por_fecha": false,
+    "rachas_punitivas": false,
+    "repetir_permitido": true,
+    "omitir_permitido": true
+  },
+  "autoevaluacion": {
+    "instruccion": "No es un test clínico. Piensa en las últimas dos semanas y responde según tu experiencia.",
+    "escala": [
+      {
+        "valor": 0,
+        "etiqueta": "Casi nunca"
+      },
+      {
+        "valor": 1,
+        "etiqueta": "Pocas veces"
+      },
+      {
+        "valor": 2,
+        "etiqueta": "A veces"
+      },
+      {
+        "valor": 3,
+        "etiqueta": "A menudo"
+      },
+      {
+        "valor": 4,
+        "etiqueta": "Casi siempre"
+      }
+    ],
+    "items": [
+      {
+        "id": "comenzar",
+        "texto": "Aunque un proyecto deseado vaya a llevar mucho tiempo, puedo comenzar por una parte concreta."
+      },
+      {
+        "id": "incompleto",
+        "texto": "Puedo terminar una sesión con la obra inacabada y reconocer el valor de lo hecho."
+      },
+      {
+        "id": "esperas",
+        "texto": "Cuando algo se retrasa, decido con criterio si conviene actuar o esperar."
+      },
+      {
+        "id": "frustracion",
+        "texto": "Ante un error, busco una respuesta concreta antes de abandonar impulsivamente."
+      },
+      {
+        "id": "regreso",
+        "texto": "Después de una interrupción, puedo retomar sin castigarme por los días perdidos."
+      },
+      {
+        "id": "personas",
+        "texto": "Puedo respetar ritmos ajenos y expresar mis propios límites con claridad."
+      }
+    ],
+    "mostrar_resultados": "Comparar cada respuesta por separado, sin diagnóstico, percentil ni promesa de transformación."
+  },
+  "semanas": [
+    {
+      "id": "semana-01",
+      "numero": 1,
+      "titulo": "Comprender mi impaciencia",
+      "objetivo": "Reconocer el ciclo que transforma una tarea larga en algo desalentador.",
+      "temas": [
+        "observación",
+        "proyectos",
+        "esperas"
+      ],
+      "lectura": "La impaciencia no es una etiqueta fija de personalidad. Es una experiencia que puede aparecer en algunos contextos y no en otros: puedes dedicar horas a algo absorbente y, sin embargo, desanimarte ante un proyecto cuyo resultado tardará meses. También puedes esperar tranquilamente en una situación y desesperarte en otra. Para aprender, necesitamos observar las circunstancias concretas.\n\nImagina abrir un programa de diseño con una idea que te entusiasma. Antes de hacer el primer trazo piensas: «Habrá que buscar referencias, probar composiciones, corregir, exportar…». El trabajo entero se presenta como una sola carga en tu cabeza. Entonces aparece una sensación desagradable y decides posponerlo. La postergación alivia un poco ahora, pero deja intacta la idea de que la duración del proyecto es insoportable. Este ciclo no se deshace insultándote; se deshace aprendiendo dónde empieza.\n\nDurante esta semana separarás situación, interpretación, emoción, impulso y respuesta. Ninguna de estas piezas es idéntica a las otras. «Esta novela puede llevar un año» es una posibilidad de planificación. «No puedo soportar tardar un año» es una conclusión emocional sobre esa posibilidad. Tratar ambas frases como si fueran hechos impide elegir con claridad.\n\nNo intentes ser paciente en todas las ocasiones desde hoy. Aprende a detectar dos o tres patrones tuyos. Una observación honesta, aunque resulte incómoda, vale más que una falsa semana perfecta. Y recuerda: hay esperas injustas y plazos reales ante los que conviene actuar. No entrenamos obediencia pasiva, sino capacidad de respuesta.",
+      "sesiones": [
+        {
+          "id": "s01-d01",
+          "semana": 1,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "La prisa empieza antes del reloj",
+          "duracion_estimada_min": 8,
+          "objetivo": "Durante un día, observa cuándo aparece la urgencia de terminar.",
+          "explicacion": "Durante un día, observa cuándo aparece la urgencia de terminar. A veces surge antes de hacer nada: basta imaginar cuánto falta para sentir que ya vas tarde. La primera habilidad no es corregir la reacción, sino reconocer su comienzo sin convertirla en una orden.",
+          "practica": "Anota tres momentos: qué ibas a hacer, qué pensaste sobre el tiempo y qué hiciste después. Separa hechos de predicciones; «tardará seis meses» y «no voy a soportarlo» no son la misma clase de afirmación.",
+          "reflexion": "¿En qué momento la duración se convirtió en una amenaza?",
+          "version_minima": "Identifica un solo pensamiento de prisa.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "observación",
+            "proyectos",
+            "esperas"
+          ]
+        },
+        {
+          "id": "s01-d02",
+          "semana": 1,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "La cadena invisible",
+          "duracion_estimada_min": 10,
+          "objetivo": "La impaciencia suele tener una secuencia: situación, interpretación, emoción, impulso y conducta.",
+          "explicacion": "La impaciencia suele tener una secuencia: situación, interpretación, emoción, impulso y conducta. Abandonar una tarea puede aliviar la incomodidad a corto plazo, pero también reforzar la idea de que una actividad larga es insoportable. Comprender esta cadena permite intervenir en diferentes puntos.",
+          "practica": "Dibuja cinco casillas con los nombres de la cadena. Reconstruye un episodio real, por ejemplo abrir un proyecto de diseño y cerrarlo al pensar en el trabajo pendiente. Señala el eslabón en el que podrías probar otra respuesta.",
+          "reflexion": "¿Qué alivio obtuviste al evitarlo y qué precio tuvo?",
+          "version_minima": "Rellena solo situación, pensamiento y respuesta.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "observación",
+            "proyectos",
+            "esperas"
+          ]
+        },
+        {
+          "id": "s01-d03",
+          "semana": 1,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "¿Me pesa el tiempo o el esfuerzo?",
+          "duracion_estimada_min": 12,
+          "objetivo": "Tiempo, dificultad e incertidumbre pueden mezclarse, aunque no son equivalentes.",
+          "explicacion": "Tiempo, dificultad e incertidumbre pueden mezclarse, aunque no son equivalentes. Una actividad puede durar mucho y ser agradable, o durar poco y ser intensa. Distinguir qué incomoda evita combatir un problema distinto del que está delante.",
+          "practica": "Elige tres actividades: una espera, un proyecto creativo y una tarea doméstica. Valora del cero al diez cuánto te molestan la duración, la dificultad y el no saber cómo saldrá. Compara los perfiles sin juzgarte.",
+          "reflexion": "¿Qué dimensión aparece más alta cuando se trata de algo que sí te gusta?",
+          "version_minima": "Puntúa una única actividad.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "observación",
+            "proyectos",
+            "esperas"
+          ]
+        },
+        {
+          "id": "s01-d04",
+          "semana": 1,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "La urgencia no decide",
+          "duracion_estimada_min": 10,
+          "objetivo": "Sentir ganas de cerrar una tarea no significa tener que cerrarla.",
+          "explicacion": "Sentir ganas de cerrar una tarea no significa tener que cerrarla. Es posible observar el impulso y decidir según lo que te importa, siempre que la actividad siga siendo segura y razonable. Practicar una pausa entre sensación y conducta ayuda a recuperar margen de elección.",
+          "practica": "Mientras realizas algo sencillo, detecta la primera urgencia de cambiar de actividad. Ponle una etiqueta: «ganas de acabar». Antes de decidir, pregúntate si continuar dos minutos sirve a tu propósito; elige de forma consciente, no automática.",
+          "reflexion": "¿Qué cambió al tratar el impulso como información y no como una orden?",
+          "version_minima": "Nombra el impulso y elige conscientemente.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "observación",
+            "proyectos",
+            "esperas"
+          ]
+        },
+        {
+          "id": "s01-d05",
+          "semana": 1,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "El reloj subjetivo",
+          "duracion_estimada_min": 12,
+          "objetivo": "Cuando miramos constantemente cuánto falta, podemos hacer que el paso del tiempo ocupe toda nuestra atención.",
+          "explicacion": "Cuando miramos constantemente cuánto falta, podemos hacer que el paso del tiempo ocupe toda nuestra atención. No se trata de prohibirse mirar la hora, sino de comprobar cuándo esa comprobación realmente ayuda. La paciencia admite planificación y también presencia en lo que hacemos.",
+          "practica": "Haz una actividad agradable de diez minutos. Durante la primera mitad observa cuántas veces piensas en terminar; durante la segunda orienta la atención a los detalles de la tarea. Compara las dos experiencias sin intentar fabricar calma.",
+          "reflexion": "¿Fue distinta la misma actividad al cambiar el foco?",
+          "version_minima": "Dedica dos minutos a los detalles sin mirar el resultado.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "observación",
+            "proyectos",
+            "esperas"
+          ]
+        },
+        {
+          "id": "s01-d06",
+          "semana": 1,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Un pequeño experimento de demora",
+          "duracion_estimada_min": 15,
+          "objetivo": "La paciencia crece mejor con pruebas proporcionadas que con hazañas de sufrimiento.",
+          "explicacion": "La paciencia crece mejor con pruebas proporcionadas que con hazañas de sufrimiento. Elegir una espera pequeña permite descubrir que una incomodidad puede estar presente sin impedirnos actuar. La dificultad debe adaptarse a ti y nunca afectar necesidades básicas, salud ni obligaciones.",
+          "practica": "Escoge una demora inocua: esperar un minuto antes de abrir una noticia no urgente o permitir que una página cargue sin alternar aplicaciones. Registra impulso inicial, respuesta elegida y lo que ocurrió de verdad.",
+          "reflexion": "¿Qué predijiste que pasaría y qué pasó finalmente?",
+          "version_minima": "Observa una espera cotidiana sin modificarla.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "observación",
+            "proyectos",
+            "esperas"
+          ]
+        },
+        {
+          "id": "s01-d07",
+          "semana": 1,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Mapa inicial de paciencia",
+          "duracion_estimada_min": 10,
+          "objetivo": "El propósito de esta primera semana no es volverte paciente de repente.",
+          "explicacion": "El propósito de esta primera semana no es volverte paciente de repente. Es construir un mapa fiable: dónde aparece la prisa, qué historias cuenta tu mente y qué conductas la mantienen. Un buen mapa permite entrenar habilidades específicas, no depender de consejos genéricos.",
+          "practica": "Revisa tus notas y elige dos situaciones frecuentes. Para cada una escribe una señal temprana, una reacción habitual y una respuesta alternativa que quieras ensayar. Guarda esa ficha como punto de partida del curso.",
+          "reflexion": "¿Qué has descubierto que antes confundías con «soy impaciente»?",
+          "version_minima": "Guarda una sola situación y una alternativa.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "observación",
+            "proyectos",
+            "esperas"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-02",
+      "numero": 2,
+      "titulo": "Empezar sin ver el final",
+      "objetivo": "Reducir la distancia entre querer algo grande y poder comenzar hoy.",
+      "temas": [
+        "proyectos",
+        "iniciar"
+      ],
+      "lectura": "Una novela puede tener cientos de páginas, pero ninguna sesión de escritura contiene las cientos de páginas. En el momento de empezar solo existe una parte pequeña y concreta. La mente, sin embargo, puede presentar todas las sesiones futuras como si fueran una obligación pendiente del día de hoy. La sensación de exceso es real; la forma de sumar el trabajo no siempre lo es.\n\nDividir una tarea no consiste en engañarse diciendo que será rápida. Consiste en elegir la escala adecuada para una decisión. Para decidir si te importa escribir un libro, puede ser útil pensar en toda la obra. Para decidir qué harás esta tarde, es más útil elegir una escena, una pregunta sobre un personaje o diez minutos de borrador. Las escalas cumplen funciones diferentes y no necesitan competir.\n\nTambién distinguiremos crear de evaluar. Si cada frase debe demostrar desde el primer momento que merece formar parte de una gran novela, escribir se convierte en un examen continuo. Un borrador no tiene por qué cumplir el estándar de un texto revisado. La paciencia protege esa distancia. Lo mismo ocurre al diseñar: probar una composición no es firmar que esa composición será la definitiva.\n\nLa práctica de esta semana es instalar una puerta de entrada que no dependa de «tener ganas». Puedes leer las últimas líneas y escribir una frase provisional; abrir un archivo y colocar una figura; dedicar dos minutos a una prueba. Después decides libremente si sigues. Si tienes agotamiento real, descansar también puede ser adecuado. El objetivo es que no decida automáticamente la imagen abrumadora del proyecto completo.",
+      "sesiones": [
+        {
+          "id": "s02-d01",
+          "semana": 2,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "Una novela no se escribe de golpe",
+          "duracion_estimada_min": 8,
+          "objetivo": "Imaginar todas las páginas futuras como si debieras escribirlas hoy produce una carga ficticia.",
+          "explicacion": "Imaginar todas las páginas futuras como si debieras escribirlas hoy produce una carga ficticia. Los proyectos extensos contienen muchas sesiones pequeñas, ninguna de las cuales debe equivaler al resultado final. Reducir la escala no minimiza tu ambición: convierte una intención enorme en una acción ejecutable.",
+          "practica": "Toma un proyecto que te importe. Escribe su visión completa y, debajo, la única acción física que podrías hacer en diez minutos, como redactar un diálogo o abrir un boceto. Comprométete solo con esa sesión, sin prometer terminar el proyecto.",
+          "reflexion": "¿Qué cambia al distinguir «todo el libro» de «el párrafo de hoy»?",
+          "version_minima": "Nombra la acción más pequeña posible.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "iniciar"
+          ]
+        },
+        {
+          "id": "s02-d02",
+          "semana": 2,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "La trampa del cálculo total",
+          "duracion_estimada_min": 10,
+          "objetivo": "Calcular cuánto tardará algo es útil para planificar, pero puede volverse una excusa si lo hacemos antes de cada paso.",
+          "explicacion": "Calcular cuánto tardará algo es útil para planificar, pero puede volverse una excusa si lo hacemos antes de cada paso. Una estimación es información, no una sentencia de que el camino será desagradable. La pregunta importante suele ser qué relación quieres mantener con ese proyecto durante su duración.",
+          "practica": "Escribe el cálculo que te desanima: «necesitaré meses». Añade dos columnas: lo que ese dato sí permite organizar y la conclusión negativa que no demuestra. Sustituye una predicción global por un próximo paso comprobable.",
+          "reflexion": "¿Estás usando el calendario para organizar o para descartar?",
+          "version_minima": "Detecta una conclusión que no se desprende del tiempo estimado.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "iniciar"
+          ]
+        },
+        {
+          "id": "s02-d03",
+          "semana": 2,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "El umbral de entrada",
+          "duracion_estimada_min": 12,
+          "objetivo": "A veces iniciar cuesta más que permanecer.",
+          "explicacion": "A veces iniciar cuesta más que permanecer. Preparativos, herramientas y expectativas convierten una sesión en una ceremonia demasiado exigente. Diseñar una puerta de entrada sencilla disminuye fricción sin exigir un estado mental perfecto.",
+          "practica": "Prepara un ritual de inicio de menos de dos minutos: abrir documento, releer las últimas tres líneas y escribir una frase provisional. Practícalo hoy aunque la sesión termine ahí. No evalúes la calidad del resultado en el umbral.",
+          "reflexion": "¿Qué parte de empezar habías hecho innecesariamente complicada?",
+          "version_minima": "Abre el proyecto y deja una sola marca útil.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "iniciar"
+          ]
+        },
+        {
+          "id": "s02-d04",
+          "semana": 2,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "Hecho provisional, no perfecto",
+          "duracion_estimada_min": 10,
+          "objetivo": "El perfeccionismo puede convertir cada inicio en una negociación con la versión ideal.",
+          "explicacion": "El perfeccionismo puede convertir cada inicio en una negociación con la versión ideal. Un primer borrador cumple una función distinta de la revisión: hace existir material sobre el que trabajar. Ser paciente implica permitir etapas intermedias que todavía no son bonitas.",
+          "practica": "Crea deliberadamente una versión provisional durante diez minutos. Etiquétala «borrador» y prohíbete únicamente pulir mientras dura el ejercicio. Al acabar anota qué opciones nuevas aparecen porque ya hay algo sobre la mesa.",
+          "reflexion": "¿Qué temor apareció al permitir un resultado incompleto?",
+          "version_minima": "Haz un esbozo de dos minutos y consérvalo.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "iniciar"
+          ]
+        },
+        {
+          "id": "s02-d05",
+          "semana": 2,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "Una unidad honesta",
+          "duracion_estimada_min": 12,
+          "objetivo": "«Trabajar en mi proyecto» es una instrucción nebulosa.",
+          "explicacion": "«Trabajar en mi proyecto» es una instrucción nebulosa. «Redactar la primera reacción de un personaje» señala una unidad con principio y final, pero no finge que la obra completa esté cerca. Aprender a formular unidades honestas evita frustraciones fabricadas por objetivos imposibles.",
+          "practica": "Divide la siguiente sesión en un resultado observable pequeño y un límite amable de tiempo. Comprueba que podrías detenerte después sin haber fallado. Si no, sigue reduciendo la unidad.",
+          "reflexion": "¿Has confundido alguna vez una sesión con una obligación de acabar?",
+          "version_minima": "Define un entregable que quepa en cinco minutos.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "iniciar"
+          ]
+        },
+        {
+          "id": "s02-d06",
+          "semana": 2,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Entrar incluso con pocas ganas",
+          "duracion_estimada_min": 15,
+          "objetivo": "La motivación no siempre precede a la acción; en ocasiones cambia después de empezar.",
+          "explicacion": "La motivación no siempre precede a la acción; en ocasiones cambia después de empezar. Probar un inicio pequeño no garantiza entusiasmo, pero permite obtener evidencia sobre lo que ocurre al actuar sin esperar el momento ideal. Descansar también puede ser una elección legítima.",
+          "practica": "Elige una actividad que te guste pero hayas pospuesto por su tamaño. Haz cinco minutos y decide después si continuar. Registra cómo te sentías antes, durante y después, sin convertir continuar más tiempo en la meta oculta.",
+          "reflexion": "¿Fue tu pronóstico del inicio preciso?",
+          "version_minima": "Haz solo el ritual de entrada.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "iniciar"
+          ]
+        },
+        {
+          "id": "s02-d07",
+          "semana": 2,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Primera puerta cruzada",
+          "duracion_estimada_min": 10,
+          "objetivo": "Una semana de práctica no demuestra que puedas completar cualquier empresa, pero sí puede enseñarte a separarla del primer movimiento.",
+          "explicacion": "Una semana de práctica no demuestra que puedas completar cualquier empresa, pero sí puede enseñarte a separarla del primer movimiento. La habilidad es repetible y transferible: proyectos diferentes pueden compartir una forma simple de entrar.",
+          "practica": "Resume tu puerta de entrada preferida, un pensamiento que te frenaba y qué datos encontraste al ensayarla. Escribe cómo adaptarías la misma técnica a un diseño, una novela y un aprendizaje nuevo.",
+          "reflexion": "¿Qué proyecto parece ahora menos monolítico?",
+          "version_minima": "Conserva tu mejor ritual de inicio.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "iniciar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-03",
+      "numero": 3,
+      "titulo": "Aprender a disfrutar del proceso",
+      "objetivo": "Apreciar decisiones y fases intermedias sin exigir un final inmediato.",
+      "temas": [
+        "creatividad",
+        "proceso"
+      ],
+      "lectura": "La cultura de mostrar resultados hace que casi todo el trabajo valioso ocurra fuera de escena. Vemos portadas, ilustraciones acabadas y objetos terminados, pero no tantas versiones mediocres, cambios de idea ni tardes dedicadas a resolver un detalle. Si solo cuentas como experiencia válida lo que puedes enseñar al final, gran parte de una vida creativa parecerá «todavía no».\n\nEsta semana cambiaremos el foco hacia las decisiones que toman forma mientras trabajas. Una frase encontrada, una prueba de color descartada por una razón sólida o un problema mejor definido pueden ser acontecimientos significativos. Eso no significa tener que celebrar cada minuto; algunas partes serán rutinarias y otras frustrantes. La paciencia no promete placer permanente: permite relacionarte con la obra sin exigir que siempre recompense de inmediato.\n\nSeparar periodos de exploración de periodos de corrección también ayuda. Si creas y te juzgas a cada segundo, es fácil perder la curiosidad. En cambio, puedes permitir unos minutos de ensayo y luego evaluar lo obtenido. Son actividades distintas, ambas necesarias.\n\nPiensa en un taller que disfrutases visitar incluso si la pieza tardase meses en estar acabada. ¿Qué habría allí? ¿Materiales al alcance, pequeñas preguntas interesantes, espacio para equivocarte, una forma de guardar lo que descubres? No todo puede controlarse, pero sí puedes cuidar algunas condiciones. La pregunta central de esta semana no será «¿cuánto terminé?», sino «¿qué parte de mi vida sucedió mientras lo hacía?».",
+      "sesiones": [
+        {
+          "id": "s03-d01",
+          "semana": 3,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "La obra a medio hacer",
+          "duracion_estimada_min": 8,
+          "objetivo": "Solemos ver obras acabadas y esconder nuestros procesos desordenados.",
+          "explicacion": "Solemos ver obras acabadas y esconder nuestros procesos desordenados. Esa comparación puede hacer que el trabajo real parezca siempre insuficiente. Una pieza a medias no es una pieza defectuosa: es una fase normal del oficio.",
+          "practica": "Abre un proyecto inconcluso y describe cinco detalles interesantes que ya existen, sin mencionar cuánto falta. Incluye al menos una decisión que hayas tomado mientras trabajabas. Guarda esa descripción junto al proyecto.",
+          "reflexion": "¿Qué valor reconoces en la fase actual?",
+          "version_minima": "Observa un detalle que te guste.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "creatividad",
+            "proceso"
+          ]
+        },
+        {
+          "id": "s03-d02",
+          "semana": 3,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "Atención artesanal",
+          "duracion_estimada_min": 10,
+          "objetivo": "La satisfacción durante una actividad puede venir de acciones microscópicas: elegir una palabra, ajustar un borde, probar un color.",
+          "explicacion": "La satisfacción durante una actividad puede venir de acciones microscópicas: elegir una palabra, ajustar un borde, probar un color. Si tu atención solo salta al resultado final, esos momentos quedan invisibles. Entrenar la atención no exige sentir serenidad; solo notar qué estás haciendo.",
+          "practica": "Durante ocho minutos concéntrate en una decisión creativa cada vez. Cada vez que aparezca «aún falta mucho», vuelve a la decisión presente sin discutir con el pensamiento. Al final enumera tres detalles que habías pasado por alto.",
+          "reflexion": "¿Qué encontraste en la tarea que el objetivo final ocultaba?",
+          "version_minima": "Dedica dos minutos a una única decisión.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "creatividad",
+            "proceso"
+          ]
+        },
+        {
+          "id": "s03-d03",
+          "semana": 3,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "Dos modos: crear y evaluar",
+          "duracion_estimada_min": 12,
+          "objetivo": "Crear y evaluar son tareas distintas.",
+          "explicacion": "Crear y evaluar son tareas distintas. Alternarlas cada pocos segundos puede interrumpir el trabajo y aumentar la sensación de lentitud. Separarlas temporalmente permite disfrutar más de la exploración sin renunciar a corregir después.",
+          "practica": "Haz un bloque de creación sin retoques y otro breve de revisión. Antes de empezar define qué operaciones pertenecen a cada bloque. Compara la tensión con tu forma habitual de trabajar.",
+          "reflexion": "¿Qué ocurría cuando juzgabas cada gesto en tiempo real?",
+          "version_minima": "Produce una versión antes de valorarla.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "creatividad",
+            "proceso"
+          ]
+        },
+        {
+          "id": "s03-d04",
+          "semana": 3,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "El placer no es una obligación",
+          "duracion_estimada_min": 10,
+          "objetivo": "Es contraproducente convertir «disfrutar el proceso» en otra exigencia.",
+          "explicacion": "Es contraproducente convertir «disfrutar el proceso» en otra exigencia. Habrá páginas aburridas, errores y tareas tediosas incluso en proyectos amados. La paciencia consiste también en sostener un compromiso sin exigir que cada minuto sea gratificante.",
+          "practica": "Realiza diez minutos de una parte menos atractiva de tu proyecto. Antes escribe «no necesito que me encante para que tenga sentido». Después anota si fue tolerable, qué costó y qué fue útil; no fuerces una conclusión positiva.",
+          "reflexion": "¿Qué cambia cuando no te obligas a disfrutar?",
+          "version_minima": "Reconoce una tarea aburrida que, aun así, tenga propósito.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "creatividad",
+            "proceso"
+          ]
+        },
+        {
+          "id": "s03-d05",
+          "semana": 3,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "Coleccionar decisiones, no trofeos",
+          "duracion_estimada_min": 12,
+          "objetivo": "Si solo celebras entregables completos, un proyecto largo puede parecer una sucesión de días sin avances.",
+          "explicacion": "Si solo celebras entregables completos, un proyecto largo puede parecer una sucesión de días sin avances. Registrar decisiones tomadas muestra movimiento sin fingir que toda actividad es productiva. El progreso también incluye pruebas descartadas y problemas mejor definidos.",
+          "practica": "Abre una bitácora de decisiones. Anota tres elecciones de tu sesión y por qué las tomaste. Una puede haber sido volver atrás; eso también es información útil sobre tu trabajo.",
+          "reflexion": "¿Qué avance estaba oculto porque no era un objeto terminado?",
+          "version_minima": "Registra una decisión.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "creatividad",
+            "proceso"
+          ]
+        },
+        {
+          "id": "s03-d06",
+          "semana": 3,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Un taller deliberadamente lento",
+          "duracion_estimada_min": 15,
+          "objetivo": "A veces ir despacio es una cualidad técnica, no un defecto.",
+          "explicacion": "A veces ir despacio es una cualidad técnica, no un defecto. Observar la textura de una frase o probar variaciones de diseño requiere atención que la prisa recorta. Practicar lentitud elegida ayuda a diferenciarla de la lentitud impuesta.",
+          "practica": "Elige un fragmento creativo pequeño y concédele quince minutos aunque pudieras resolverlo más rápido. Explora dos alternativas y escribe qué aprendiste de compararlas. Detente si la actividad deja de tener sentido; no conviertas el tiempo en penitencia.",
+          "reflexion": "¿Cuándo te aporta valor ir despacio?",
+          "version_minima": "Compara dos opciones durante tres minutos.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "creatividad",
+            "proceso"
+          ]
+        },
+        {
+          "id": "s03-d07",
+          "semana": 3,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Mi relación con el taller",
+          "duracion_estimada_min": 10,
+          "objetivo": "El objetivo no es enamorarse de cada paso, sino aprender a reconocer que el proceso ya forma parte de la vida que deseas.",
+          "explicacion": "El objetivo no es enamorarse de cada paso, sino aprender a reconocer que el proceso ya forma parte de la vida que deseas. Una novela no empieza cuando se publica, ni un dibujo cuando se exporta. Existe mientras lo haces.",
+          "practica": "Revisa una sesión de la semana y escribe una descripción del proceso que no incluya el resultado esperado. Diseña una frase de regreso a la actividad basada en una acción concreta, no en un eslogan.",
+          "reflexion": "¿Cómo describirías ahora un día «bueno» de creación?",
+          "version_minima": "Escribe una forma de medir la experiencia, no solo el resultado.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "creatividad",
+            "proceso"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-04",
+      "numero": 4,
+      "titulo": "Esperas cotidianas",
+      "objetivo": "Responder a retrasos y comprobaciones repetitivas con más margen.",
+      "temas": [
+        "esperas",
+        "incertidumbre"
+      ],
+      "lectura": "No todas las esperas son iguales. Un tren retrasado puede exigir reorganizar una cita; una descarga puede terminar sin intervención; un mensaje puede tener un plazo negociable. Tratar cada espera como una misma injusticia aumenta el malestar y empeora las decisiones. Primero distinguiremos esperas evitables, gestionables e inevitables.\n\nUna conducta frecuente es comprobar repetidamente si algo cambió. A veces consultar aporta información útil. Otras veces solo ofrece segundos de alivio antes de volver a preguntar. No se trata de prohibir el móvil, sino de reconocer cuándo un nuevo vistazo puede cambiar tu decisión. Puedes decidir de antemano la próxima consulta y dedicar el intervalo a otra actividad, o simplemente estar en él.\n\nTambién aprenderás que un hueco no tiene por qué ser productivo. En una cola segura puedes observar el entorno, pensar en otra cosa o no hacer nada especial. No todo minuto necesita ser transformado en avance. Esta experiencia contrasta con la idea de que esperar equivale a perder vida.\n\nLa experimentación será pequeña y voluntaria. No retrasaremos necesidades, obligaciones urgentes, medicación ni situaciones de seguridad. La paciencia no tiene valor cuando se usa para desatender lo importante. El fin es comprobar que una molestia moderada puede existir mientras eliges una respuesta razonable. Si la espera pide actuar, preguntar o poner un límite, eso también cuenta como buen juicio.",
+      "sesiones": [
+        {
+          "id": "s04-d01",
+          "semana": 4,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "Esperar no es estar perdiendo",
+          "duracion_estimada_min": 8,
+          "objetivo": "Algunas esperas tienen coste real y otras son simplemente intervalos en los que no ocurre lo que deseamos.",
+          "explicacion": "Algunas esperas tienen coste real y otras son simplemente intervalos en los que no ocurre lo que deseamos. Nuestra reacción puede exagerar ambos tipos si interpretamos cualquier demora como tiempo robado. La paciencia empieza al distinguir problemas solucionables de lapsos inevitables.",
+          "practica": "Recuerda tres esperas recientes. Clasifícalas en evitables, gestionables e inevitables; apunta qué acción útil existía en cada caso. No se trata de soportar una mala organización cuando puedes actuar.",
+          "reflexion": "¿Cuándo confundes esperar con no tener control?",
+          "version_minima": "Clasifica una sola espera.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "esperas",
+            "incertidumbre"
+          ]
+        },
+        {
+          "id": "s04-d02",
+          "semana": 4,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "El impulso de comprobar",
+          "duracion_estimada_min": 10,
+          "objetivo": "Revisar una y otra vez si llegó un mensaje, cambió un estado o terminó una descarga puede dar alivio instantáneo.",
+          "explicacion": "Revisar una y otra vez si llegó un mensaje, cambió un estado o terminó una descarga puede dar alivio instantáneo. También puede mantener la atención anclada a aquello que no avanza. El objetivo no es prohibir consultar, sino hacerlo cuando exista una razón.",
+          "practica": "Elige una comprobación no urgente y establece de antemano cuándo volverás a revisarla. Entre tanto realiza una actividad elegida. Anota cuántas ganas de mirar surgieron y qué descubriste al no responder a todas.",
+          "reflexion": "¿Qué esperaba conseguir cada comprobación?",
+          "version_minima": "Retrasa una comprobación inocua un minuto.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "esperas",
+            "incertidumbre"
+          ]
+        },
+        {
+          "id": "s04-d03",
+          "semana": 4,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "Demora conocida y desconocida",
+          "duracion_estimada_min": 12,
+          "objetivo": "No es igual esperar diez minutos que no saber si algo ocurrirá hoy.",
+          "explicacion": "No es igual esperar diez minutos que no saber si algo ocurrirá hoy. La incertidumbre agrega preguntas que el reloj no puede contestar. Saber qué clase de espera vives permite decidir si conviene planificar una alternativa, preguntar o sencillamente continuar tu día.",
+          "practica": "Escribe dos casos reales: una espera con plazo y otra sin él. Para cada una separa lo conocido, lo desconocido y la próxima acción razonable. Evita rellenar huecos con certezas imaginarias.",
+          "reflexion": "¿Qué aspecto te altera más: el tiempo o la falta de información?",
+          "version_minima": "Escribe tres datos ciertos sobre una espera.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "esperas",
+            "incertidumbre"
+          ]
+        },
+        {
+          "id": "s04-d04",
+          "semana": 4,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "Un intervalo habitable",
+          "duracion_estimada_min": 10,
+          "objetivo": "No todos los huecos del día necesitan aprovecharse.",
+          "explicacion": "No todos los huecos del día necesitan aprovecharse. Una cola puede ser simplemente una cola. Dar permiso a un intervalo sin multitarea ayuda a comprobar que un momento no productivo sigue siendo parte de una vida normal.",
+          "practica": "En una espera segura de pocos minutos, guarda el móvil voluntariamente si no lo necesitas. Observa el entorno y tus ganas de escapar del intervalo. Si es incómodo, puedes retomarlo: el ejercicio busca elección, no imposición.",
+          "reflexion": "¿Qué temías perder por no llenar el hueco?",
+          "version_minima": "Observa treinta segundos antes de sacar el móvil.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "esperas",
+            "incertidumbre"
+          ]
+        },
+        {
+          "id": "s04-d05",
+          "semana": 4,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "Cuando hay alternativas",
+          "duracion_estimada_min": 12,
+          "objetivo": "La paciencia no es resignación.",
+          "explicacion": "La paciencia no es resignación. Si un retraso exige reorganizar una cita, pedir información o poner un límite, actuar puede ser la respuesta más sensata. El entrenamiento consiste en evitar tanto la agitación innecesaria como la pasividad automática.",
+          "practica": "Para una demora concreta, haz un pequeño árbol: esperar, consultar, cambiar de plan o poner un límite. Señala coste y beneficio de cada opción y decide cuál se ajusta mejor a la situación.",
+          "reflexion": "¿En qué casos actuar es más paciente que aguantar?",
+          "version_minima": "Nombra una alternativa razonable.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "esperas",
+            "incertidumbre"
+          ]
+        },
+        {
+          "id": "s04-d06",
+          "semana": 4,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Una espera real, a tu medida",
+          "duracion_estimada_min": 15,
+          "objetivo": "La práctica más útil sucede en el mundo cotidiano, no solo en un contador dentro de una app.",
+          "explicacion": "La práctica más útil sucede en el mundo cotidiano, no solo en un contador dentro de una app. Una espera breve ofrece una oportunidad de comprobar si puedes sentir inquietud y seguir eligiendo tu conducta. Nunca retrases medicación, comida necesaria, desplazamientos seguros ni mensajes urgentes para entrenar.",
+          "practica": "Elige una espera corriente y no urgente que probablemente ocurra hoy. Antes valora tu impaciencia; durante identifica tu impulso principal; después describe qué hiciste y cómo terminó. Evita repetir el ejercicio para «sacar buena nota».",
+          "reflexion": "¿Qué parte fue distinta de tu predicción?",
+          "version_minima": "Haz una observación breve sin alterar nada.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "esperas",
+            "incertidumbre"
+          ]
+        },
+        {
+          "id": "s04-d07",
+          "semana": 4,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Balance de las esperas",
+          "duracion_estimada_min": 10,
+          "objetivo": "Aprender a esperar no significa que todas las colas te resulten placenteras.",
+          "explicacion": "Aprender a esperar no significa que todas las colas te resulten placenteras. El progreso consiste en responder con más flexibilidad: consultar cuando conviene, ocuparte de otra cosa o estar presente cuando nada puede acelerarse.",
+          "practica": "Revisa tus registros y redacta tres criterios personales: cuándo comprobar, cuándo actuar y cuándo dejar pasar el intervalo. Guárdalos como una tarjeta de consulta rápida para futuros retrasos.",
+          "reflexion": "¿Cuál de los tres criterios te cuesta más aplicar?",
+          "version_minima": "Escribe una regla útil para las esperas.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "esperas",
+            "incertidumbre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-05",
+      "numero": 5,
+      "titulo": "Frustración y errores",
+      "objetivo": "Tratar errores como problemas concretos y elegir respuestas útiles.",
+      "temas": [
+        "frustración",
+        "errores"
+      ],
+      "lectura": "Cuando algo sale mal, no solo duele el inconveniente: puede aparecer una historia sobre lo que ese inconveniente significa. «Este diseño no funciona» puede transformarse en «nunca hago nada bien». La segunda frase es más amplia, más dura y menos útil. Esta semana entrenarás descripciones específicas que permitan corregir sin convertir cada error en una sentencia personal.\n\nTrabajaremos con cuatro respuestas distintas: reparar, investigar, pedir ayuda y descansar. No todas sirven siempre. Una decisión equivocada puede corregirse; una herramienta desconocida puede requerir aprendizaje; el agotamiento puede pedir una pausa; un resultado irreparable puede exigir aceptar la pérdida y replantear el camino. La paciencia es suficientemente flexible como para elegir entre ellas.\n\nUn error creativo ofrece oportunidades de práctica especialmente claras. Puedes revisar una frase, probar otra composición o conservar una versión imperfecta para entenderla. Borrarlo todo de inmediato a veces es útil, pero otras veces sirve para quitarte de delante una incomodidad. Antes de empezar desde cero, probarás una reparación pequeña. Así la decisión no dependerá exclusivamente del primer impulso.\n\nLa dificultad debe mantenerse en un nivel seguro. No necesitas provocar un gran malestar para aprender. Tampoco necesitas continuar una actividad que te está perjudicando. El criterio no es «aguanté más», sino «pude reconocer lo que pasaba y elegir una respuesta mejor ajustada». Esa distinción será importante durante todo el curso.",
+      "sesiones": [
+        {
+          "id": "s05-d01",
+          "semana": 5,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "Cuando algo no sale",
+          "duracion_estimada_min": 8,
+          "objetivo": "La frustración es la distancia emocional entre lo esperado y lo ocurrido.",
+          "explicacion": "La frustración es la distancia emocional entre lo esperado y lo ocurrido. No indica necesariamente que estés haciendo algo mal; a menudo aparece precisamente cuando intentas algo que requiere habilidad. El entrenamiento empieza por reconocerla antes de abandonar o atacar el problema sin pensar.",
+          "practica": "Reconstruye un error reciente. Nombra la expectativa, el hecho concreto y la reacción. Añade qué parte era corregible y qué parte requería aceptar una limitación.",
+          "reflexion": "¿Qué interpretación convirtió el error en un juicio sobre ti?",
+          "version_minima": "Describe un error sin adjetivos sobre tu persona.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "frustración",
+            "errores"
+          ]
+        },
+        {
+          "id": "s05-d02",
+          "semana": 5,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "Error no equivale a fracaso",
+          "duracion_estimada_min": 10,
+          "objetivo": "Un diseño rechazado o una escena que no funciona son resultados parciales con información.",
+          "explicacion": "Un diseño rechazado o una escena que no funciona son resultados parciales con información. El fracaso absoluto suele ser una etiqueta demasiado grande para un acontecimiento pequeño. Cambiar la escala del lenguaje puede ampliar las respuestas disponibles.",
+          "practica": "Reformula tres frases globales: «todo está fatal», «no valgo» o «perdí el tiempo». Sustitúyelas por observaciones comprobables, como «este color no funciona con el fondo». Comprueba si la nueva frase sugiere un siguiente paso.",
+          "reflexion": "¿Qué posibilidad aparece cuando describes con precisión?",
+          "version_minima": "Cambia una etiqueta total por un hecho concreto.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "frustración",
+            "errores"
+          ]
+        },
+        {
+          "id": "s05-d03",
+          "semana": 5,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "Reparar antes de empezar de cero",
+          "duracion_estimada_min": 12,
+          "objetivo": "Rehacerlo todo puede resultar tentador porque elimina la visión del error actual.",
+          "explicacion": "Rehacerlo todo puede resultar tentador porque elimina la visión del error actual. Sin embargo, también puede convertirse en una forma de evitar tolerar imperfecciones. A veces la paciencia se expresa en reparar una pieza en lugar de descartarla.",
+          "practica": "Escoge un detalle defectuoso de un proyecto. Antes de borrar, encuentra dos maneras de revisarlo; prueba la menos costosa durante cinco minutos. Puedes decidir empezar de nuevo después, pero habrá sido una elección informada.",
+          "reflexion": "¿Qué sentiste al permanecer con algo imperfecto?",
+          "version_minima": "Escribe una reparación posible sin ejecutarla.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "frustración",
+            "errores"
+          ]
+        },
+        {
+          "id": "s05-d04",
+          "semana": 5,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "El derecho a una pausa",
+          "duracion_estimada_min": 10,
+          "objetivo": "Persistir a cualquier precio no es una virtud.",
+          "explicacion": "Persistir a cualquier precio no es una virtud. Fatiga, saturación y dolor aportan información relevante. La habilidad consiste en diferenciar una pausa que cuida el trabajo de una huida automática que después lamentas.",
+          "practica": "Cuando surja el deseo de abandonar, pregunta: «¿necesito descanso, ayuda, redefinir el objetivo o escapar de la frustración?». Elige una acción congruente y fija cómo volverás a evaluar la situación.",
+          "reflexion": "¿Cómo se siente una pausa deliberada frente a un abandono impulsivo?",
+          "version_minima": "Formula una pregunta antes de dejarlo.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "frustración",
+            "errores"
+          ]
+        },
+        {
+          "id": "s05-d05",
+          "semana": 5,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "Tolerar una revisión",
+          "duracion_estimada_min": 12,
+          "objetivo": "Corregir exige aceptar que el primer intento no era definitivo.",
+          "explicacion": "Corregir exige aceptar que el primer intento no era definitivo. Revisar una frase, una composición o un plan puede incomodar porque rompe la fantasía de que todo debería salir bien a la primera. Esa incomodidad es parte del aprendizaje artesanal.",
+          "practica": "Trabaja con un borrador y realiza una revisión concreta, no global. Escribe qué problema resuelve, qué sacrificio implica y por qué decides conservarla o no. Detente tras una revisión consciente.",
+          "reflexion": "¿Qué aprendiste sobre tu criterio al revisar?",
+          "version_minima": "Modifica un solo elemento.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "frustración",
+            "errores"
+          ]
+        },
+        {
+          "id": "s05-d06",
+          "semana": 5,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "El experimento imperfecto",
+          "duracion_estimada_min": 15,
+          "objetivo": "Podemos entrenar frustración con desafíos leves y seguros, pero no hace falta fabricarse sufrimiento.",
+          "explicacion": "Podemos entrenar frustración con desafíos leves y seguros, pero no hace falta fabricarse sufrimiento. Elegir una tarea creativa moderadamente difícil muestra cómo respondes cuando la realidad se resiste un poco. La meta es aprender, no provocar un colapso.",
+          "practica": "Elige un ejercicio que esté un punto por encima de tu comodidad. Dedica diez minutos, apunta dos obstáculos reales y escoge cómo responder a uno. Reduce la dificultad si te desborda.",
+          "reflexion": "¿Cómo cambió tu conducta al aparecer la primera dificultad?",
+          "version_minima": "Practica con una dificultad muy pequeña.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "frustración",
+            "errores"
+          ]
+        },
+        {
+          "id": "s05-d07",
+          "semana": 5,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Manual de reparación",
+          "duracion_estimada_min": 10,
+          "objetivo": "No existe una respuesta universal a la frustración.",
+          "explicacion": "No existe una respuesta universal a la frustración. Un problema técnico pide información; un error reversible pide revisión; una pérdida irreversible pide aceptación y reajuste. Tener varias respuestas evita tratar cada obstáculo como si fuera el fin del proyecto.",
+          "practica": "Crea tres tarjetas: reparar, pedir ayuda y hacer una pausa. Añade una señal que indique cuándo usarías cada una y un ejemplo de esta semana.",
+          "reflexion": "¿Qué recurso has subutilizado hasta ahora?",
+          "version_minima": "Completa una tarjeta.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "frustración",
+            "errores"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-06",
+      "numero": 6,
+      "titulo": "Constancia flexible",
+      "objetivo": "Construir continuidad sin rachas obligatorias ni culpa por descansar.",
+      "temas": [
+        "constancia",
+        "proyectos"
+      ],
+      "lectura": "La imagen popular de la constancia suele ser una larga cadena de días perfectos. Pero una novela puede escribirse entre enfermedades, vacaciones, trabajo y semanas difíciles. Una vida real rara vez ofrece un calendario impecable. La habilidad más valiosa no es nunca interrumpirse: es saber volver sin necesitar castigarse por la interrupción.\n\nVamos a sustituir la lógica de «recuperar todo el tiempo perdido» por la de «retomar el siguiente paso». Si has dejado un borrador tres semanas, quizá no necesites releerlo entero ni producir una sesión extraordinaria. Puede bastar con abrirlo, localizar dónde estabas y escribir una nota sobre lo próximo que te interesa explorar. Volver es una acción; saldar una deuda imaginaria no lo es.\n\nCrearemos dos tamaños de sesión. En días amplios podrás dedicar más tiempo. En días reducidos una acción pequeña seguirá siendo completa y legítima. La versión mínima no existe para manipularte hasta trabajar una hora; existe porque algunas veces cinco minutos son lo razonable. También practicaremos cerrar una sesión dejando un puente: una nota de dos líneas que facilite la próxima entrada.\n\nEl resultado será un sistema personal de continuidad, sin contador punitivo de rachas. La aplicación puede mostrar sesiones realizadas y recursos usados, pero nunca calificará como fracaso un día sin actividad. El descanso no anula la dirección de un proyecto. La constancia flexible sabe vivir dentro del tiempo que realmente tenemos.",
+      "sesiones": [
+        {
+          "id": "s06-d01",
+          "semana": 6,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "Volver vale más que no fallar",
+          "duracion_estimada_min": 8,
+          "objetivo": "Una racha perfecta puede ser motivadora al principio y cruel cuando se rompe.",
+          "explicacion": "Una racha perfecta puede ser motivadora al principio y cruel cuando se rompe. En proyectos largos, saber regresar después de una interrupción es más importante que no interrumpirse nunca. La constancia real tiene huecos, estaciones y recomienzos.",
+          "practica": "Identifica una actividad abandonada que todavía deseas recuperar. Diseña un regreso de cinco minutos que no exija compensar el tiempo perdido ni revisar todo lo pendiente. Prueba ese regreso si es viable.",
+          "reflexion": "¿Qué te exigías hacer antes de permitirte continuar?",
+          "version_minima": "Abre el proyecto sin ponerte al día.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "constancia",
+            "proyectos"
+          ]
+        },
+        {
+          "id": "s06-d02",
+          "semana": 6,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "Rutinas al servicio del deseo",
+          "duracion_estimada_min": 10,
+          "objetivo": "Una rutina tiene sentido si protege espacio para algo valioso, no si transforma todo placer en trabajo obligatorio.",
+          "explicacion": "Una rutina tiene sentido si protege espacio para algo valioso, no si transforma todo placer en trabajo obligatorio. La pregunta no es cómo llenar cada día, sino qué condiciones facilitan que vuelvas con ganas suficientes.",
+          "practica": "Prueba una cita flexible con tu proyecto: franja aproximada, lugar disponible y primer paso definido. Incluye explícitamente cómo adaptarla si ese día tienes menos energía o aparecen obligaciones.",
+          "reflexion": "¿La rutina te facilita empezar o te añade presión?",
+          "version_minima": "Decide solo dónde guardarás el proyecto listo.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "constancia",
+            "proyectos"
+          ]
+        },
+        {
+          "id": "s06-d03",
+          "semana": 6,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "Día mínimo, día amplio",
+          "duracion_estimada_min": 12,
+          "objetivo": "Nuestra energía y disponibilidad varían.",
+          "explicacion": "Nuestra energía y disponibilidad varían. Un plan que solo sirve en días ideales se rompe pronto y puede alimentar la impaciencia. Tener una versión mínima digna y una versión amplia evita confundir adaptar con rendirse.",
+          "practica": "Escribe dos versiones de una sesión creativa: una de tres minutos y otra de treinta. Ambas deben ser útiles por sí mismas. Practica hoy la que realmente encaje, sin premiarte por elegir la larga.",
+          "reflexion": "¿Qué valor tiene una sesión pequeña en una historia larga?",
+          "version_minima": "Elige una versión mínima.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "constancia",
+            "proyectos"
+          ]
+        },
+        {
+          "id": "s06-d04",
+          "semana": 6,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "Cuando desaparece la novedad",
+          "duracion_estimada_min": 10,
+          "objetivo": "El entusiasmo inicial es intenso porque todo parece posible.",
+          "explicacion": "El entusiasmo inicial es intenso porque todo parece posible. Luego llegan la repetición, los detalles y las dudas. Que una actividad deje de ser nueva no significa necesariamente que haya dejado de importarte.",
+          "practica": "Mira un proyecto en una fase intermedia. Escribe qué valor te llevó a empezarlo, qué parte ya conoces mejor y qué pregunta viva conserva para ti. Decide una próxima acción basada en esa pregunta, no en recuperar la euforia.",
+          "reflexion": "¿Confundes pérdida de novedad con pérdida de sentido?",
+          "version_minima": "Escribe una razón actual para seguir.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "constancia",
+            "proyectos"
+          ]
+        },
+        {
+          "id": "s06-d05",
+          "semana": 6,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "La pausa con puente",
+          "duracion_estimada_min": 12,
+          "objetivo": "Una interrupción puede convertirse en abandono cuando el regreso parece exigir recordar demasiadas cosas.",
+          "explicacion": "Una interrupción puede convertirse en abandono cuando el regreso parece exigir recordar demasiadas cosas. Dejar un puente concreto reduce esa distancia. No es una obligación futura; es una cortesía hacia tu yo de mañana.",
+          "practica": "Antes de cerrar una sesión, escribe una nota de regreso de dos líneas: dónde estabas y cuál sería el primer movimiento posible. En la siguiente sesión comprueba si te facilita entrar.",
+          "reflexion": "¿Qué información te habría ahorrado resistencia al volver?",
+          "version_minima": "Deja una frase de continuidad.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "constancia",
+            "proyectos"
+          ]
+        },
+        {
+          "id": "s06-d06",
+          "semana": 6,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Practicar el regreso",
+          "duracion_estimada_min": 15,
+          "objetivo": "Esperar a sentir culpa antes de retomar una actividad convierte la constancia en castigo.",
+          "explicacion": "Esperar a sentir culpa antes de retomar una actividad convierte la constancia en castigo. Puedes entrenar el retorno neutralmente: identificar el punto actual, empezar pequeño y no ajustar cuentas con el calendario.",
+          "practica": "Recupera un borrador o ejercicio anterior. Dedica diez minutos a continuarlo sin repasar cuánto tiempo pasó. Anota cómo resultó retomar algo no reciente, incluso si no fue especialmente agradable.",
+          "reflexion": "¿Qué hizo posible regresar?",
+          "version_minima": "Recupera un archivo y obsérvalo un minuto.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "constancia",
+            "proyectos"
+          ]
+        },
+        {
+          "id": "s06-d07",
+          "semana": 6,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Mi sistema de continuidad",
+          "duracion_estimada_min": 10,
+          "objetivo": "No necesitas un horario militar para cultivar proyectos de años.",
+          "explicacion": "No necesitas un horario militar para cultivar proyectos de años. Necesitas un sistema suficientemente flexible para sobrevivir a semanas imperfectas. Este sistema debe medir regreso, cuidado y dirección, no solo producción.",
+          "practica": "Diseña tres acuerdos: cómo empezarás, cómo cerrarás dejando un puente y qué harás tras una interrupción. Incluye descanso legítimo y una señal que te indique que toca replantear el proyecto.",
+          "reflexion": "¿Qué acuerdo te parece sostenible sin vigilancia?",
+          "version_minima": "Escribe una regla amable de regreso.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "constancia",
+            "proyectos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-07",
+      "numero": 7,
+      "titulo": "Incertidumbre y control",
+      "objetivo": "Diferenciar control, influencia y hechos que aún no pueden resolverse.",
+      "temas": [
+        "incertidumbre",
+        "control"
+      ],
+      "lectura": "Esperar sin saber cuánto queda suele ser más difícil que esperar con un plazo conocido. La mente intenta cerrar esa incertidumbre produciendo predicciones, consultas o escenarios. Algunas acciones ayudan; otras no aportan información y ocupan toda la atención. La paciencia requiere diferenciar lo que podemos decidir, aquello en lo que podemos influir y lo que hoy está fuera de nuestro alcance.\n\nNo vamos a enseñar resignación. Si necesitas una respuesta para organizar tu trabajo, preguntar es una acción sensata. Si un proveedor incumple un plazo, reclamar puede estar justificado. Aceptar que un hecho ya ocurrió no implica aprobarlo ni renunciar a cambiar lo que todavía depende de ti. Significa empezar desde la situación real en lugar de discutir mentalmente con su existencia.\n\nEnsayaremos formas de hablar sobre el futuro sin convertir hipótesis en certezas. «Es posible que tarde» ofrece información distinta de «seguro que todo saldrá mal». No te obligaremos a pensar en positivo: la alternativa es pensar con precisión, reconocer límites del conocimiento y decidir el siguiente paso útil.\n\nLa incertidumbre se practica mejor con situaciones de bajo riesgo. No ignores señales de peligro ni dejes de consultar asuntos médicos, económicos o legales importantes por cumplir ejercicios. El objetivo es que «todavía no sé» deje de ocupar por defecto cada minuto de tu día. Podrás seguir actuando de acuerdo con tus prioridades aunque no todas las preguntas estén cerradas.",
+      "sesiones": [
+        {
+          "id": "s07-d01",
+          "semana": 7,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "Mi círculo de influencia",
+          "duracion_estimada_min": 8,
+          "objetivo": "La impaciencia se vuelve especialmente intensa cuando el resultado depende de otras personas o de acontecimientos externos.",
+          "explicacion": "La impaciencia se vuelve especialmente intensa cuando el resultado depende de otras personas o de acontecimientos externos. Intentar controlar lo incontrolable agota sin acelerar los hechos. Distinguir acción, influencia y ausencia de control permite repartir mejor la energía.",
+          "practica": "Piensa en una respuesta que estás esperando o en un proyecto con variables externas. Dibuja tres círculos: puedo decidir, puedo influir, no puedo controlar. Coloca cinco elementos y elige una acción situada en el primer círculo.",
+          "reflexion": "¿Dónde estabas gastando esfuerzo sin capacidad de cambiar nada?",
+          "version_minima": "Separa un hecho controlable de otro que no lo es.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "incertidumbre",
+            "control"
+          ]
+        },
+        {
+          "id": "s07-d02",
+          "semana": 7,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "Planes que admiten sorpresa",
+          "duracion_estimada_min": 10,
+          "objetivo": "Planificar ayuda, pero tratar cada previsión como una promesa convierte cualquier desvío en una afrenta.",
+          "explicacion": "Planificar ayuda, pero tratar cada previsión como una promesa convierte cualquier desvío en una afrenta. La paciencia con la incertidumbre exige planes ajustables, no ausencia de planes. Un margen realista es una herramienta de cuidado.",
+          "practica": "Elige una tarea con plazo flexible. Prepara un plan A razonable y una alternativa B si surge un imprevisto. Evita llenar cada hora con el supuesto de que nada se complicará.",
+          "reflexion": "¿Qué expectativa rígida hace que un retraso te parezca intolerable?",
+          "version_minima": "Piensa una alternativa para un contratiempo probable.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "incertidumbre",
+            "control"
+          ]
+        },
+        {
+          "id": "s07-d03",
+          "semana": 7,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "Preguntas sin respuesta inmediata",
+          "duracion_estimada_min": 12,
+          "objetivo": "Algunas dudas no pueden resolverse ahora, aunque la mente exija una certeza.",
+          "explicacion": "Algunas dudas no pueden resolverse ahora, aunque la mente exija una certeza. Perseguirla de forma continua puede ocupar más tiempo que la incertidumbre misma. Podemos reconocer una pregunta pendiente y volver a vivir mientras llega información.",
+          "practica": "Escribe una pregunta que hoy no tenga respuesta. Diferencia cuándo podrías obtener información útil de cuándo solo estarías adivinando. Reserva una revisión razonable y dedica el intervalo a una actividad elegida.",
+          "reflexion": "¿Cómo actúas cuando no puedes cerrar una pregunta?",
+          "version_minima": "Formula la incertidumbre sin inventar respuesta.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "incertidumbre",
+            "control"
+          ]
+        },
+        {
+          "id": "s07-d04",
+          "semana": 7,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "Predicción no es hecho",
+          "duracion_estimada_min": 10,
+          "objetivo": "«Seguro que tardará muchísimo» y «esto no va a salir» son hipótesis, no informes del futuro.",
+          "explicacion": "«Seguro que tardará muchísimo» y «esto no va a salir» son hipótesis, no informes del futuro. A veces acertamos, otras no. La paciencia mejora cuando tratamos las predicciones como probabilidades revisables.",
+          "practica": "Recoge dos pronósticos pesimistas sobre tiempo o resultado. Escribe qué datos los respaldan, cuáles faltan y qué versión menos absoluta también sería plausible. No te obligues a ser optimista.",
+          "reflexion": "¿Qué parte de tu certeza era una impresión?",
+          "version_minima": "Añade «es posible, no seguro» a una predicción.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "incertidumbre",
+            "control"
+          ]
+        },
+        {
+          "id": "s07-d05",
+          "semana": 7,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "Aceptar sin aprobar",
+          "duracion_estimada_min": 12,
+          "objetivo": "Aceptar que algo ocurre no significa que te guste ni renuncies a cambiarlo.",
+          "explicacion": "Aceptar que algo ocurre no significa que te guste ni renuncies a cambiarlo. Significa reconocer la situación presente para responder con claridad. Luchar mentalmente contra un hecho que ya sucedió puede añadir sufrimiento sin abrir alternativas.",
+          "practica": "Elige una demora pequeña ya ocurrida. Formula primero el hecho sin «debería» y después una acción útil: reorganizar, pedir información o continuar. Observa si aceptar el hecho facilita decidir.",
+          "reflexion": "¿Qué confundes habitualmente con resignarte?",
+          "version_minima": "Escribe «esto está ocurriendo; ahora puedo…».",
+          "completar_sin_escribir": true,
+          "tags": [
+            "incertidumbre",
+            "control"
+          ]
+        },
+        {
+          "id": "s07-d06",
+          "semana": 7,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Permanecer ante el quizá",
+          "duracion_estimada_min": 15,
+          "objetivo": "La incertidumbre moderada puede practicarse como una habilidad: no cerrar de inmediato todas las opciones ni perseguir una seguridad imposible.",
+          "explicacion": "La incertidumbre moderada puede practicarse como una habilidad: no cerrar de inmediato todas las opciones ni perseguir una seguridad imposible. Esto no implica ignorar señales de peligro ni dejar sin atender asuntos importantes.",
+          "practica": "En una decisión de bajo riesgo, permite que una pequeña duda permanezca mientras realizas el siguiente paso razonable. Registra qué pensamientos buscan una comprobación adicional y si esa comprobación aportaría información nueva.",
+          "reflexion": "¿Qué hiciste aunque no tuvieras certeza absoluta?",
+          "version_minima": "Tolera un «quizá» inocuo durante un minuto.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "incertidumbre",
+            "control"
+          ]
+        },
+        {
+          "id": "s07-d07",
+          "semana": 7,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Balance de control",
+          "duracion_estimada_min": 10,
+          "objetivo": "La madurez de la paciencia no consiste en controlar mejor todo, sino en elegir mejor dónde actuar.",
+          "explicacion": "La madurez de la paciencia no consiste en controlar mejor todo, sino en elegir mejor dónde actuar. Algunas veces habrá que cambiar de plan; otras, dejar que el tiempo transcurra. Ambas pueden ser respuestas inteligentes.",
+          "practica": "Reúne un ejemplo de acción útil, uno de espera y uno de reajuste de expectativas. Escribe los criterios que usarías para distinguirlos la próxima vez.",
+          "reflexion": "¿Qué aprendiste sobre la diferencia entre controlar y responder?",
+          "version_minima": "Conserva un criterio de decisión.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "incertidumbre",
+            "control"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-08",
+      "numero": 8,
+      "titulo": "Paciencia con otras personas",
+      "objetivo": "Escuchar, negociar tiempos y establecer límites sin reacción automática.",
+      "temas": [
+        "relaciones",
+        "límites"
+      ],
+      "lectura": "Las personas no hablan, aprenden ni contestan siempre a nuestro ritmo. Cuando alguien tarda, podemos llenar el silencio con interpretaciones: no le importa, lo hace a propósito, debería haber terminado ya. A veces existen problemas reales; otras veces estamos respondiendo a una historia que todavía no hemos comprobado. Esta semana nos centraremos en diferenciar evidencias y suposiciones.\n\nTambién trabajaremos la escucha. Terminar las frases ajenas o preparar una respuesta antes de entender puede dar sensación de eficiencia, pero empobrece el intercambio. Escuchar una idea completa no te obliga a compartirla. Significa que podrás responder a lo que de verdad se dijo.\n\nEn las esperas interpersonales aprenderemos a pedir información, negociar plazos y comunicar necesidades. No todo tiene que quedar al arbitrio del otro: si algo es urgente, conviene decirlo; si una demora se repite y te perjudica, puedes poner límites. Un límite razonable especifica qué harás tú, en lugar de intentar controlar completamente a otra persona.\n\nLa meta de esta semana es una paciencia activa: curiosa cuando hay ambigüedad, clara cuando hay necesidades y firme cuando aparecen faltas de respeto. Ser paciente con alguien no requiere anular tus intereses para parecer comprensiva. Requiere margen para decidir con mejores datos y menos reacción automática.",
+      "sesiones": [
+        {
+          "id": "s08-d01",
+          "semana": 8,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "El ritmo ajeno",
+          "duracion_estimada_min": 8,
+          "objetivo": "Otras personas pueden necesitar más tiempo para pensar, hablar, aprender o decidir.",
+          "explicacion": "Otras personas pueden necesitar más tiempo para pensar, hablar, aprender o decidir. Su ritmo no equivale necesariamente a desinterés o falta de respeto, aunque a veces existan problemas reales. La paciencia pide distinguir interpretación de evidencia antes de reaccionar.",
+          "practica": "Recuerda una situación en la que alguien tardó más de lo deseado. Escribe tres explicaciones posibles, incluida una desfavorable si hay hechos que la respaldan. Después identifica qué información necesitarías para decidir con justicia.",
+          "reflexion": "¿Qué asumiste sobre sus intenciones sin comprobarlo?",
+          "version_minima": "Considera una explicación alternativa.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "relaciones",
+            "límites"
+          ]
+        },
+        {
+          "id": "s08-d02",
+          "semana": 8,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "Escuchar sin completar",
+          "duracion_estimada_min": 10,
+          "objetivo": "Interrumpir para acelerar una conversación puede impedir entender algo importante.",
+          "explicacion": "Interrumpir para acelerar una conversación puede impedir entender algo importante. Escuchar también es tolerar momentos en los que todavía no sabemos adónde llegará el otro. No requiere estar de acuerdo ni dejar que invadan nuestros límites.",
+          "practica": "En una conversación segura, practica esperar a que la otra persona termine su idea antes de responder. Resume mentalmente lo que realmente dijo, no tu réplica anticipada. Comprueba si entendiste algo nuevo.",
+          "reflexion": "¿En qué momento sentiste ganas de tomar el control del diálogo?",
+          "version_minima": "Deja terminar una frase sin completarla.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "relaciones",
+            "límites"
+          ]
+        },
+        {
+          "id": "s08-d03",
+          "semana": 8,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "Mensajes y tiempos de respuesta",
+          "duracion_estimada_min": 12,
+          "objetivo": "El silencio digital es ambiguo: puede significar ocupación, olvido o muchas otras cosas.",
+          "explicacion": "El silencio digital es ambiguo: puede significar ocupación, olvido o muchas otras cosas. Convertir la falta de respuesta en una conclusión firme suele aumentar la impaciencia. También es legítimo pedir un plazo cuando hay necesidades concretas.",
+          "practica": "Elige un caso de respuesta pendiente no urgente. Determina cuándo sería razonable hacer seguimiento y redacta para ti una petición clara sin reproches. Mientras tanto, no conviertas cada minuto en una prueba de afecto o consideración.",
+          "reflexion": "¿Qué sueles interpretar cuando alguien tarda en contestar?",
+          "version_minima": "Decide un momento razonable para preguntar.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "relaciones",
+            "límites"
+          ]
+        },
+        {
+          "id": "s08-d04",
+          "semana": 8,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "Pedir sin exigir instantaneidad",
+          "duracion_estimada_min": 10,
+          "objetivo": "Una necesidad legítima puede comunicarse con claridad sin exigir que otra persona responda a la velocidad que deseas.",
+          "explicacion": "Una necesidad legítima puede comunicarse con claridad sin exigir que otra persona responda a la velocidad que deseas. Es útil separar urgencia real, preferencia personal y expectativa no conversada. La paciencia incluye negociar plazos.",
+          "practica": "Reescribe una petición reciente indicando qué necesitas, por qué y para cuándo. Revisa si ese plazo es genuinamente necesario o si expresa solo incomodidad al esperar.",
+          "reflexion": "¿Qué cambiaría si expresaras el plazo en vez de darlo por supuesto?",
+          "version_minima": "Formula una petición con plazo concreto.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "relaciones",
+            "límites"
+          ]
+        },
+        {
+          "id": "s08-d05",
+          "semana": 8,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "Paciencia y límites",
+          "duracion_estimada_min": 12,
+          "objetivo": "Ser paciente no exige tolerar faltas de respeto, incumplimientos repetidos o esperas indefinidas.",
+          "explicacion": "Ser paciente no exige tolerar faltas de respeto, incumplimientos repetidos o esperas indefinidas. Los límites ayudan a que la paciencia sea una elección sana y no una forma de silenciarte. Un límite describe qué harás tú si una situación continúa.",
+          "practica": "Piensa en una situación repetitiva. Escribe una petición clara y un límite proporcionado, sin amenazas grandilocuentes. Distingue lo que puedes pedir de lo que puedes decidir hacer.",
+          "reflexion": "¿En qué momento la paciencia se transformaría en aguantar de más?",
+          "version_minima": "Identifica un límite válido.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "relaciones",
+            "límites"
+          ]
+        },
+        {
+          "id": "s08-d06",
+          "semana": 8,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Una conversación menos apresurada",
+          "duracion_estimada_min": 15,
+          "objetivo": "Los vínculos pueden ganar calidad cuando no tratamos cada intercambio como un trámite hacia una solución.",
+          "explicacion": "Los vínculos pueden ganar calidad cuando no tratamos cada intercambio como un trámite hacia una solución. Dar espacio al desacuerdo o a una respuesta reflexiva no significa evitar decisiones. La clave está en sostener el diálogo con respeto y dirección.",
+          "practica": "En una conversación de bajo conflicto, elige hacer una pregunta auténtica antes de dar un consejo. Escucha la respuesta completa y decide si realmente necesitas resolver algo en ese momento.",
+          "reflexion": "¿Qué apareció al retrasar tu solución?",
+          "version_minima": "Haz una pregunta y escucha.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "relaciones",
+            "límites"
+          ]
+        },
+        {
+          "id": "s08-d07",
+          "semana": 8,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Mis criterios con los demás",
+          "duracion_estimada_min": 10,
+          "objetivo": "La paciencia interpersonal madura combina curiosidad, claridad y límites.",
+          "explicacion": "La paciencia interpersonal madura combina curiosidad, claridad y límites. Ni adivinar intenciones ni resignarte por sistema son habilidades suficientes. Buscar información y expresar necesidades suele ayudar más que acumular resentimiento.",
+          "practica": "Resume una situación de esta semana y escribe tres respuestas posibles: comprensión, petición explícita y límite. Señala cuándo usarías cada una.",
+          "reflexion": "¿Qué confusión entre paciencia y pasividad has corregido?",
+          "version_minima": "Escribe una petición respetuosa.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "relaciones",
+            "límites"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-09",
+      "numero": 9,
+      "titulo": "Paciencia conmigo misma",
+      "objetivo": "Aprender a exigirse con justicia y permitir etapas de principiante.",
+      "temas": [
+        "autopaciencia",
+        "perfeccionismo"
+      ],
+      "lectura": "A veces somos mucho menos pacientes con nuestro aprendizaje que con el de otras personas. Podemos aceptar que alguien necesite años para dominar un arte y exigirnos a nosotras mismas resultados comparables en pocas semanas. Este doble rasero es especialmente duro cuando tenemos buen gusto: sabemos reconocer la calidad de una obra mucho antes de poder producirla de forma consistente.\n\nSer paciente contigo no equivale a felicitarte por todo. Significa evaluar con precisión. «Esta escena necesita un conflicto más claro» ayuda. «No sirvo para escribir» no indica una acción. Una autocrítica útil es concreta, proporcionada y compatible con seguir aprendiendo.\n\nTambién distinguiremos descanso de abandono. Descansar no crea una deuda que deba saldarse trabajando el doble; puede ser una condición para continuar de manera sostenible. Y ser principiante tiene permiso para producir intentos imperfectos, porque nadie practica una habilidad sin atravesar sus primeras versiones.\n\nProbaremos estándares sostenibles: qué nivel de esfuerzo tiene sentido en esta etapa, cómo reconocer una corrección necesaria y cuándo conviene pedir ayuda o cambiar la estrategia. El objetivo no es bajar toda exigencia, sino hacerla habitable durante el tiempo real que requiere adquirir una habilidad. Una relación más justa contigo permite perseverar sin que el proyecto se convierta en una medida constante de tu valor.",
+      "sesiones": [
+        {
+          "id": "s09-d01",
+          "semana": 9,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "El juez del progreso",
+          "duracion_estimada_min": 8,
+          "objetivo": "A veces tratamos nuestro aprendizaje como si debiera avanzar a la velocidad de alguien que lleva años practicando.",
+          "explicacion": "A veces tratamos nuestro aprendizaje como si debiera avanzar a la velocidad de alguien que lleva años practicando. Esa comparación puede vaciar de sentido la sesión presente. Ser paciente contigo implica evaluar el trabajo según su etapa real.",
+          "practica": "Elige una habilidad en desarrollo. Describe qué exigirías razonablemente a alguien en tu misma fase y compáralo con lo que te exiges. Reformula un criterio injusto de evaluación.",
+          "reflexion": "¿Qué estándar estás aplicando antes de tiempo?",
+          "version_minima": "Nombra una expectativa desproporcionada.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "autopaciencia",
+            "perfeccionismo"
+          ]
+        },
+        {
+          "id": "s09-d02",
+          "semana": 9,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "Hablarme con precisión",
+          "duracion_estimada_min": 10,
+          "objetivo": "La autocrítica global suele sonar contundente pero informa poco: «soy un desastre» no indica qué mejorar.",
+          "explicacion": "La autocrítica global suele sonar contundente pero informa poco: «soy un desastre» no indica qué mejorar. Una descripción precisa permite corregir sin atacarte. Paciencia no es complacencia; puede haber exigencia y respeto simultáneamente.",
+          "practica": "Ante un error reciente, escribe primero tu frase automática y luego una evaluación técnica de lo ocurrido. Incluye una fortaleza concreta y una corrección posible, sin elogios vacíos.",
+          "reflexion": "¿Cuál de las dos versiones te deja actuar mejor?",
+          "version_minima": "Sustituye un insulto por una descripción.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "autopaciencia",
+            "perfeccionismo"
+          ]
+        },
+        {
+          "id": "s09-d03",
+          "semana": 9,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "Comparar procesos completos",
+          "duracion_estimada_min": 12,
+          "objetivo": "Comparar tu primer borrador con una obra publicada omite revisiones, años de práctica y versiones descartadas.",
+          "explicacion": "Comparar tu primer borrador con una obra publicada omite revisiones, años de práctica y versiones descartadas. Las comparaciones justas pueden inspirar; las incompletas suelen desmoralizar. Aprender a mirar el proceso ajeno reduce la urgencia de alcanzarlo de inmediato.",
+          "practica": "Selecciona una obra que admires. Investiga o imagina, señalando qué es conjetura, al menos tres etapas de trabajo que normalmente no ves. Luego identifica la etapa equivalente de tu proyecto actual.",
+          "reflexion": "¿Qué parte de la comparación era injusta por falta de contexto?",
+          "version_minima": "Recuerda que un resultado oculta muchas versiones.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "autopaciencia",
+            "perfeccionismo"
+          ]
+        },
+        {
+          "id": "s09-d04",
+          "semana": 9,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "Descanso sin deuda",
+          "duracion_estimada_min": 10,
+          "objetivo": "Descansar no crea automáticamente una deuda de productividad.",
+          "explicacion": "Descansar no crea automáticamente una deuda de productividad. A veces el cuerpo o la vida necesitan una pausa, y eso no cancela lo aprendido. Convertir cada descanso en culpa puede hacer más difícil volver.",
+          "practica": "Planifica un descanso breve o reconoce uno que ya hayas tomado. Describe su función real sin justificarlo mediante productividad posterior. Después decide si volver, posponer o replantear la tarea.",
+          "reflexion": "¿Qué te dices cuando no produces nada visible?",
+          "version_minima": "Reconoce un descanso legítimo.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "autopaciencia",
+            "perfeccionismo"
+          ]
+        },
+        {
+          "id": "s09-d05",
+          "semana": 9,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "Cuando aprendo despacio",
+          "duracion_estimada_min": 12,
+          "objetivo": "La habilidad nueva necesita repetición y errores.",
+          "explicacion": "La habilidad nueva necesita repetición y errores. Que algo no salga todavía no demuestra incapacidad; sí puede indicar que necesitas otra estrategia, información o un ritmo distinto. La paciencia con una misma deja espacio a revisar el método.",
+          "practica": "Elige algo que estás aprendiendo. Separa qué sabes hacer, qué haces con ayuda y qué aún no sabes. Escoge una práctica que encaje en el nivel intermedio, no en el más exigente.",
+          "reflexion": "¿Qué paso de aprendizaje te estabas saltando?",
+          "version_minima": "Identifica una habilidad parcial.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "autopaciencia",
+            "perfeccionismo"
+          ]
+        },
+        {
+          "id": "s09-d06",
+          "semana": 9,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Mi permiso para ser principiante",
+          "duracion_estimada_min": 15,
+          "objetivo": "Una parte incómoda de empezar proyectos creativos es producir cosas mediocres antes de dominar el oficio.",
+          "explicacion": "Una parte incómoda de empezar proyectos creativos es producir cosas mediocres antes de dominar el oficio. Eso no invalida tu gusto ni tu ambición. Permitir ser principiante protege la posibilidad de llegar a ser mejor.",
+          "practica": "Haz una pieza breve en la que el objetivo sea probar una técnica y no crear algo para enseñar. Guarda el trabajo y apunta qué habilidad específica practicarías la próxima vez.",
+          "reflexion": "¿Qué libertad aparece cuando el resultado no tiene que representarte?",
+          "version_minima": "Prueba una técnica en privado durante dos minutos.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "autopaciencia",
+            "perfeccionismo"
+          ]
+        },
+        {
+          "id": "s09-d07",
+          "semana": 9,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Una exigencia sostenible",
+          "duracion_estimada_min": 10,
+          "objetivo": "Exigirte nada puede estancarte; exigirte siempre el máximo puede agotarte.",
+          "explicacion": "Exigirte nada puede estancarte; exigirte siempre el máximo puede agotarte. La paciencia busca una exigencia compatible con aprender durante años. Un criterio útil es que puedas repetir el proceso sin necesitar castigarte.",
+          "practica": "Redacta tres estándares: uno de esfuerzo razonable, uno de cuidado personal y uno de revisión honesta. Aplícalos a tu proyecto más importante.",
+          "reflexion": "¿Qué estándar te ayuda a crecer sin atacarte?",
+          "version_minima": "Escribe un criterio justo de progreso.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "autopaciencia",
+            "perfeccionismo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-10",
+      "numero": 10,
+      "titulo": "Construir algo largo",
+      "objetivo": "Aplicar las habilidades a una obra personal con varias sesiones.",
+      "temas": [
+        "proyectos",
+        "práctica"
+      ],
+      "lectura": "En esta semana dejaremos de hablar de proyectos en abstracto. Elegirás una obra real: unas páginas de novela, un diseño con varias fases, un aprendizaje artesanal o algo diferente que te importe. No tiene que ser el proyecto más grande de tu vida; sí debe ser suficientemente significativo para que puedas experimentar la dificultad de no terminar en una sola sesión.\n\nDiseñaremos un mapa flexible de fases, sin convertirlo en una prisión de fechas. Explorar, producir, revisar y cerrar tienen propósitos distintos. Una sesión puede consistir en resolver una pregunta que desbloqueará la siguiente. Puede ser «completa» sin que la obra esté cerca de su final.\n\nTambién prepararemos respuestas a obstáculos probables. Una duda técnica puede pedir investigación; un problema de alcance, simplificar; una jornada agotadora, posponer. El propósito es que un contratiempo no se convierta automáticamente en prueba de que el proyecto era imposible.\n\nRegistraremos tres tipos de señales: presencia real en el proceso, avance verificable y cuidado de las condiciones en las que trabajas. No utilizaremos métricas como látigos. Al revisar, podrás continuar, redimensionar o pausar con motivos claros. La victoria no es acabar una novela en una semana; es aprender a vivir con una obra inacabada sin necesitar renunciar a ella por ese motivo.",
+      "sesiones": [
+        {
+          "id": "s10-d01",
+          "semana": 10,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "Elegir una obra real",
+          "duracion_estimada_min": 8,
+          "objetivo": "Las habilidades de paciencia se consolidan al aplicarlas a un proyecto con significado.",
+          "explicacion": "Las habilidades de paciencia se consolidan al aplicarlas a un proyecto con significado. No necesitas elegir la obra de tu vida; basta un proyecto suficientemente interesante y complejo para exigir varias sesiones. Empezar pequeño no impide soñar grande.",
+          "practica": "Elige una novela, diseño, investigación o aprendizaje que quieras continuar durante al menos dos semanas. Describe por qué te importa, cómo sabrás que una sesión aportó algo y qué te haría revisar el alcance.",
+          "reflexion": "¿Qué te atrae del proceso además del resultado?",
+          "version_minima": "Elige una obra concreta y un motivo.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "práctica"
+          ]
+        },
+        {
+          "id": "s10-d02",
+          "semana": 10,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "Un mapa sin cárcel",
+          "duracion_estimada_min": 10,
+          "objetivo": "Un plan sirve para orientarse, no para demostrar cada día que vas tarde.",
+          "explicacion": "Un plan sirve para orientarse, no para demostrar cada día que vas tarde. Un buen mapa identifica fases que pueden cambiar cuando aprendes más sobre el trabajo. Las estimaciones deben admitir incertidumbre.",
+          "practica": "Divide el proyecto en tres o cuatro fases flexibles, como exploración, primer borrador, revisión y cierre. Para cada una anota un ejemplo de acción, no una fecha obligatoria.",
+          "reflexion": "¿Qué fase estabas tratando de saltarte?",
+          "version_minima": "Nombra la fase actual.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "práctica"
+          ]
+        },
+        {
+          "id": "s10-d03",
+          "semana": 10,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "Definir una sesión completa",
+          "duracion_estimada_min": 12,
+          "objetivo": "La unidad de progreso de un proyecto largo no tiene por qué ser un capítulo, una ilustración o un producto final.",
+          "explicacion": "La unidad de progreso de un proyecto largo no tiene por qué ser un capítulo, una ilustración o un producto final. También puede ser resolver una pregunta, ensayar una composición o descartar una alternativa. Lo importante es que la sesión tenga un propósito realizable.",
+          "practica": "Formula el propósito de hoy con un verbo concreto: explorar, ordenar, redactar, probar o revisar. Define una señal razonable de cierre y realiza la sesión. Registra qué aprendiste además de lo producido.",
+          "reflexion": "¿Puedes llamar completa a una sesión aunque la obra siga incompleta?",
+          "version_minima": "Cierra una microtarea con criterio claro.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "práctica"
+          ]
+        },
+        {
+          "id": "s10-d04",
+          "semana": 10,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "Un obstáculo esperado",
+          "duracion_estimada_min": 10,
+          "objetivo": "Todo proyecto largo acumulará bloqueos y cambios de plan.",
+          "explicacion": "Todo proyecto largo acumulará bloqueos y cambios de plan. Imaginarlos como una anomalía aumenta el impacto emocional cuando llegan. Preparar respuestas de antemano evita que un problema menor decida el futuro de toda la obra.",
+          "practica": "Elige dos obstáculos probables y decide qué harías: simplificar, pedir ayuda, descansar, investigar o cambiar el orden de tareas. No prepares veinte escenarios, solo opciones útiles.",
+          "reflexion": "¿Qué obstáculo solías interpretar como señal de abandonar?",
+          "version_minima": "Escribe una respuesta a un bloqueo.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "práctica"
+          ]
+        },
+        {
+          "id": "s10-d05",
+          "semana": 10,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "Medir lo que importa",
+          "duracion_estimada_min": 12,
+          "objetivo": "Contar palabras o minutos puede aportar datos, pero no describe toda la calidad de un proceso.",
+          "explicacion": "Contar palabras o minutos puede aportar datos, pero no describe toda la calidad de un proceso. Una métrica única puede premiar la cantidad mientras ignora decisiones, claridad o placer. Elegir indicadores variados protege tu relación con la obra.",
+          "practica": "Diseña un panel con tres señales: una de presencia en el proceso, una de avance y otra de cuidado. Por ejemplo, sesiones realizadas, dudas aclaradas y descansos respetados. Úsalas como observaciones, no como castigos.",
+          "reflexion": "¿Qué dato te haría sentir progreso de forma honesta?",
+          "version_minima": "Registra una decisión valiosa.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "práctica"
+          ]
+        },
+        {
+          "id": "s10-d06",
+          "semana": 10,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Dos sesiones, un mismo camino",
+          "duracion_estimada_min": 15,
+          "objetivo": "Un proyecto extenso se construye enlazando jornadas, no repitiendo euforia.",
+          "explicacion": "Un proyecto extenso se construye enlazando jornadas, no repitiendo euforia. Observar cómo una sesión prepara la siguiente permite apreciar continuidad aun cuando el avance visible es modesto. Esa continuidad es parte de la recompensa.",
+          "practica": "Realiza dos sesiones breves en días distintos, cuando te resulte posible. Al final de la primera deja un puente; al empezar la segunda úsalo. Compara el comienzo y el cierre de ambas.",
+          "reflexion": "¿Qué facilitó que existiera una segunda sesión?",
+          "version_minima": "Deja preparado el siguiente paso.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "práctica"
+          ]
+        },
+        {
+          "id": "s10-d07",
+          "semana": 10,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Revisión de mitad de camino",
+          "duracion_estimada_min": 10,
+          "objetivo": "Haber sostenido varias sesiones importa más que fingir que ya puedes ver el final.",
+          "explicacion": "Haber sostenido varias sesiones importa más que fingir que ya puedes ver el final. Esta revisión examina qué funciona y qué necesita ajustes. Cambiar el alcance no siempre es abandonar; puede ser tomar una decisión más informada.",
+          "practica": "Revisa el proyecto real: una elección acertada, una dificultad, un cambio de enfoque y la siguiente sesión posible. Decide continuar, redimensionar o pausar con motivos explícitos.",
+          "reflexion": "¿Cómo es ahora tu relación con la duración de esta obra?",
+          "version_minima": "Escribe qué harías en la siguiente sesión.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "proyectos",
+            "práctica"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-11",
+      "numero": 11,
+      "titulo": "Llevarlo a la vida real",
+      "objetivo": "Transferir habilidades a situaciones reales sin depender de la aplicación.",
+      "temas": [
+        "transferencia",
+        "vida-real"
+      ],
+      "lectura": "Un curso digital corre un riesgo: que las habilidades solo existan mientras miramos la pantalla. Esta semana haremos lo contrario. Elegirás pequeñas oportunidades de aplicar una estrategia sin abrir la PWA. Después volverás para registrar lo sucedido, si te resulta útil. La aplicación debe apoyarte, no convertirse en otra comprobación compulsiva.\n\nLas situaciones serán variadas. Puede surgir un contratiempo mientras trabajas, una conversación que avanza despacio o un día con varias obligaciones. En contextos con prisa real no vamos a pedirte que te vuelvas lenta. La paciencia consiste en distinguir la urgencia genuina del impulso añadido y dar prioridad a lo importante.\n\nOtra práctica será cerrar un trabajo sabiendo que todavía falta mucho. Puedes guardar la sesión con una nota de continuidad y seguir con tu vida. Eso no significa perder ambición: significa que una obra extensa necesita varios finales pequeños antes del final definitivo.\n\nLa medida del aprendizaje será la flexibilidad. ¿Puedes elegir entre esperar, actuar, revisar, pedir ayuda, descansar o poner límites? ¿Recuerdas alguna herramienta sin consultar la biblioteca? Si hay ámbitos que siguen siendo difíciles, no lo consideres un suspenso; son pistas para diseñar prácticas más adecuadas. El objetivo es usar menos la aplicación para depender más de tus propias decisiones.",
+      "sesiones": [
+        {
+          "id": "s11-d01",
+          "semana": 11,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "Sin abrir la aplicación",
+          "duracion_estimada_min": 8,
+          "objetivo": "Una habilidad es más sólida cuando aparece fuera del contexto donde la aprendiste.",
+          "explicacion": "Una habilidad es más sólida cuando aparece fuera del contexto donde la aprendiste. La PWA es un entrenamiento, no una muleta que debas consultar cada vez que te irritas. Practicar sin ella permite comprobar qué recuerdas espontáneamente.",
+          "practica": "Elige una tarea o espera cotidiana y decide antes una sola habilidad que aplicarás sin abrir la aplicación. Al final del día vuelve y registra qué recordaste y qué no.",
+          "reflexion": "¿Qué habilidad empieza a resultarte propia?",
+          "version_minima": "Aplica una idea sin consultar notas.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "transferencia",
+            "vida-real"
+          ]
+        },
+        {
+          "id": "s11-d02",
+          "semana": 11,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "La paciencia bajo presión moderada",
+          "duracion_estimada_min": 10,
+          "objetivo": "Cuando hay prisa real, no siempre podemos aplicar ejercicios largos.",
+          "explicacion": "Cuando hay prisa real, no siempre podemos aplicar ejercicios largos. Necesitamos respuestas breves: identificar la urgencia, decidir prioridades y actuar sin añadir dramatismo. La paciencia útil no exige lentitud cuando la situación pide rapidez.",
+          "practica": "Piensa en un día ocupado pero seguro. Antes de una actividad difícil, usa diez segundos para distinguir urgencia real de urgencia imaginada y elige una prioridad. Después observa cómo afectó a tu respuesta.",
+          "reflexion": "¿Qué cambió al ordenar antes de reaccionar?",
+          "version_minima": "Identifica la primera prioridad.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "transferencia",
+            "vida-real"
+          ]
+        },
+        {
+          "id": "s11-d03",
+          "semana": 11,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "Un contratiempo imprevisto",
+          "duracion_estimada_min": 12,
+          "objetivo": "Los planes funcionarán algunas veces y otras no.",
+          "explicacion": "Los planes funcionarán algunas veces y otras no. La prueba no es evitar irritarte, sino qué haces con esa irritación cuando las condiciones cambian. Puedes reconocer disgusto, tomar decisiones y mantener límites al mismo tiempo.",
+          "practica": "Al aparecer un inconveniente inocuo, describe mentalmente el hecho, la emoción y la próxima acción útil. Si no surge ninguno hoy, ensaya con un ejemplo pasado sin inventarte un problema.",
+          "reflexion": "¿Qué reacción automática pudiste sustituir por una elección?",
+          "version_minima": "Nombra el hecho sin exagerarlo.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "transferencia",
+            "vida-real"
+          ]
+        },
+        {
+          "id": "s11-d04",
+          "semana": 11,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "Esperar junto a otros",
+          "duracion_estimada_min": 10,
+          "objetivo": "Las esperas compartidas pueden contagiar nerviosismo.",
+          "explicacion": "Las esperas compartidas pueden contagiar nerviosismo. Podemos acompañar a alguien sin negar su molestia ni amplificar la propia. La paciencia social incluye reconocer la emoción y buscar información cuando hace falta.",
+          "practica": "Observa una espera compartida de bajo riesgo. Si alguien se queja, practica responder con una observación realista en vez de competir por quién está más indignado. No es necesario intervenir si no procede.",
+          "reflexion": "¿Qué diferencia hay entre validar una molestia y alimentarla?",
+          "version_minima": "Evita añadir una queja automática.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "transferencia",
+            "vida-real"
+          ]
+        },
+        {
+          "id": "s11-d05",
+          "semana": 11,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "Un proyecto que no termina hoy",
+          "duracion_estimada_min": 12,
+          "objetivo": "El examen práctico de esta habilidad consiste en cerrar una jornada sabiendo que la obra sigue abierta y que eso no invalida lo hecho.",
+          "explicacion": "El examen práctico de esta habilidad consiste en cerrar una jornada sabiendo que la obra sigue abierta y que eso no invalida lo hecho. Cerrar bien es distinto de resignarse a no acabar jamás. Se puede conservar ambición y paciencia simultáneamente.",
+          "practica": "Trabaja un poco en tu proyecto y termina voluntariamente en un punto razonable, dejando una nota de continuidad. Observa el pensamiento «debería haber hecho más» sin darle automáticamente la razón.",
+          "reflexion": "¿Puedes sentir satisfacción sin final definitivo?",
+          "version_minima": "Cierra una sesión con un puente.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "transferencia",
+            "vida-real"
+          ]
+        },
+        {
+          "id": "s11-d06",
+          "semana": 11,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Elegir una respuesta nueva",
+          "duracion_estimada_min": 15,
+          "objetivo": "No es necesario reaccionar perfectamente.",
+          "explicacion": "No es necesario reaccionar perfectamente. Es suficiente notar que ahora tienes más de una alternativa. Esa flexibilidad es un progreso más útil que el ideal de no sentir nunca impaciencia.",
+          "practica": "Durante el día identifica una escena donde normalmente acelerarías, comprobarías o abandonarías. Elige conscientemente una respuesta distinta y valora su conveniencia, no solo si te sentiste tranquila.",
+          "reflexion": "¿Qué opción no habrías considerado antes del curso?",
+          "version_minima": "Observa una alternativa sin obligación de usarla.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "transferencia",
+            "vida-real"
+          ]
+        },
+        {
+          "id": "s11-d07",
+          "semana": 11,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Traslado de habilidades",
+          "duracion_estimada_min": 10,
+          "objetivo": "Lo aprendido debe viajar entre ámbitos: de la novela a una cola, del diseño a una conversación, del descanso a una revisión difícil.",
+          "explicacion": "Lo aprendido debe viajar entre ámbitos: de la novela a una cola, del diseño a una conversación, del descanso a una revisión difícil. Un entrenamiento bien integrado genera principios transferibles, no recetas para cada situación.",
+          "practica": "Elige tres técnicas del curso y escribe cómo las usarías en creatividad, espera y relaciones. Conserva una tarjeta pequeña con las que realmente han sido útiles.",
+          "reflexion": "¿Qué principio aparece repetido en diferentes ámbitos?",
+          "version_minima": "Traslada una técnica a otro contexto.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "transferencia",
+            "vida-real"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "semana-12",
+      "numero": 12,
+      "titulo": "Integración y futuro",
+      "objetivo": "Evaluar con prudencia, seleccionar herramientas y planear el futuro.",
+      "temas": [
+        "integración",
+        "futuro"
+      ],
+      "lectura": "Doce semanas son una estructura de aprendizaje, no un plazo mágico de transformación. Puedes haber avanzado mucho en proyectos creativos y seguir irritándote en las esperas; o quizá ahora toleres mejor las demoras, pero aún te exijas demasiado cuando escribes. Los resultados no tienen por qué ser uniformes. Vamos a observar conductas concretas, no adjudicar una etiqueta definitiva.\n\nCompararemos la autoevaluación inicial con la actual de manera prudente. Las escalas reflejan percepciones personales, no equivalen a un diagnóstico ni prueban que un método haya causado todos los cambios. Una medición complementaria es recordar situaciones semejantes y describir qué hiciste distinto. Si no aprecias mejoría en algún área, esa información también es útil.\n\nPrepararás una caja de herramientas reducida: cómo empezar una obra larga, cómo terminar una sesión sin terminar el proyecto, cómo tratar un error, cuándo comprobar una espera y cómo volver tras una interrupción. Deben ser recursos que realmente hayas utilizado, no frases que suenen bien.\n\nEl cierre será deliberadamente abierto. Puedes seguir consultando las lecciones, repetir un ejercicio o continuar tu proyecto sin pasar por la aplicación. Volver a sentir impaciencia no invalida el camino. La pregunta de fondo ya no es «¿cómo consigo que todo termine antes?», sino «¿cómo quiero vivir y actuar mientras las cosas tardan lo que tardan?».",
+      "sesiones": [
+        {
+          "id": "s12-d01",
+          "semana": 12,
+          "dia": 1,
+          "fase": "Observa",
+          "titulo": "Mirar hacia atrás sin idealizar",
+          "duracion_estimada_min": 8,
+          "objetivo": "Evaluar el cambio requiere comparar situaciones semejantes y reconocer los límites de nuestra memoria.",
+          "explicacion": "Evaluar el cambio requiere comparar situaciones semejantes y reconocer los límites de nuestra memoria. Una semana buena o mala no demuestra una transformación total. El objetivo es detectar tendencias, recursos ganados y dificultades pendientes sin exagerar conclusiones.",
+          "practica": "Recupera tu mapa inicial y busca dos episodios actuales comparables. Describe qué sigue costando y qué haces distinto. Si no encuentras mejoras, registra ese dato con sinceridad y revisa el método.",
+          "reflexion": "¿Qué conducta observable ha cambiado, aunque tu emoción no siempre cambie?",
+          "version_minima": "Compara una reacción de antes y ahora.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "integración",
+            "futuro"
+          ]
+        },
+        {
+          "id": "s12-d02",
+          "semana": 12,
+          "dia": 2,
+          "fase": "Comprende",
+          "titulo": "Mis señales tempranas",
+          "duracion_estimada_min": 10,
+          "objetivo": "La impaciencia puede regresar con cansancio, presión o situaciones nuevas.",
+          "explicacion": "La impaciencia puede regresar con cansancio, presión o situaciones nuevas. Reconocer señales tempranas permite ajustar antes de que el patrón se intensifique. Volver a sentirla no significa haber perdido lo aprendido.",
+          "practica": "Enumera tres señales propias: pensamientos, gestos o conductas. Para cada una elige una respuesta breve que hayas probado durante el curso.",
+          "reflexion": "¿Cómo sabrás que necesitas recuperar una herramienta?",
+          "version_minima": "Escribe una señal y una respuesta.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "integración",
+            "futuro"
+          ]
+        },
+        {
+          "id": "s12-d03",
+          "semana": 12,
+          "dia": 3,
+          "fase": "Practica",
+          "titulo": "Un plan para proyectos futuros",
+          "duracion_estimada_min": 12,
+          "objetivo": "Después del curso aparecerán nuevas novelas, diseños y habilidades.",
+          "explicacion": "Después del curso aparecerán nuevas novelas, diseños y habilidades. No necesitarás repetir todas las lecciones para cada obra: puedes construir un protocolo breve de comienzo, continuidad y revisión. El plan sirve para sostener el deseo, no para controlar cada jornada.",
+          "practica": "Diseña una ficha reutilizable con cinco campos: por qué me importa, primer paso, unidad de sesión, puente de regreso y criterio para revisar el alcance. Pruébala con una idea futura.",
+          "reflexion": "¿Qué etapa te resultaría más fácil empezar hoy?",
+          "version_minima": "Guarda un primer paso para un proyecto nuevo.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "integración",
+            "futuro"
+          ]
+        },
+        {
+          "id": "s12-d04",
+          "semana": 12,
+          "dia": 4,
+          "fase": "Pon a prueba",
+          "titulo": "Plan para esperas y frustración",
+          "duracion_estimada_min": 10,
+          "objetivo": "Las demoras y los errores volverán; la meta no es eliminarlos, sino responder con mayor margen.",
+          "explicacion": "Las demoras y los errores volverán; la meta no es eliminarlos, sino responder con mayor margen. Un plan corto puede recordarte cuándo comprobar, cuándo actuar, cuándo aceptar y cuándo descansar.",
+          "practica": "Redacta tu protocolo de cuatro decisiones con ejemplos personales. Incluye al menos un caso en que lo adecuado sea poner un límite en lugar de esperar.",
+          "reflexion": "¿Qué respuesta quieres recordar en una demora complicada?",
+          "version_minima": "Elige tu frase de orientación más útil.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "integración",
+            "futuro"
+          ]
+        },
+        {
+          "id": "s12-d05",
+          "semana": 12,
+          "dia": 5,
+          "fase": "Afina",
+          "titulo": "Recaída no es regreso a cero",
+          "duracion_estimada_min": 12,
+          "objetivo": "En momentos de estrés puedes evitar tareas, comprobar de más o irritarte.",
+          "explicacion": "En momentos de estrés puedes evitar tareas, comprobar de más o irritarte. Eso no borra experiencias anteriores ni demuestra que no sepas ser paciente. Recuperar la dirección suele empezar por una acción pequeña sin autoacusaciones.",
+          "practica": "Imagina una semana en la que abandonas el hábito. Escribe un plan de retorno de cinco minutos: identificar situación, escoger una técnica y probarla una vez. Elimina de ese plan cualquier obligación de recuperar días perdidos.",
+          "reflexion": "¿Qué te ayudaría a volver sin vergüenza?",
+          "version_minima": "Escribe una puerta de regreso.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "integración",
+            "futuro"
+          ]
+        },
+        {
+          "id": "s12-d06",
+          "semana": 12,
+          "dia": 6,
+          "fase": "Llévalo fuera",
+          "titulo": "Mi caja de herramientas",
+          "duracion_estimada_min": 15,
+          "objetivo": "Un curso vale por lo que queda disponible cuando cierras la pantalla.",
+          "explicacion": "Un curso vale por lo que queda disponible cuando cierras la pantalla. No necesitas guardar todo: tres a cinco herramientas probadas pueden ser más útiles que un catálogo infinito. Selecciónalas por utilidad real, no por lo elegantes que suenen.",
+          "practica": "Revisa tus ejercicios. Elige cinco herramientas, anota cuándo las usarías y una limitación de cada una. Exporta o guarda tu tarjeta personal sin incluir datos que no quieras conservar.",
+          "reflexion": "¿Qué herramienta te sorprendió por su eficacia práctica?",
+          "version_minima": "Escoge tu herramienta principal.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "integración",
+            "futuro"
+          ]
+        },
+        {
+          "id": "s12-d07",
+          "semana": 12,
+          "dia": 7,
+          "fase": "Integra",
+          "titulo": "Final abierto",
+          "duracion_estimada_min": 10,
+          "objetivo": "Terminar este recorrido no significa convertirte en alguien que nunca se impacienta.",
+          "explicacion": "Terminar este recorrido no significa convertirte en alguien que nunca se impacienta. Significa conocer mejor tus respuestas y disponer de maneras de actuar incluso cuando algo tarda. La paciencia es una práctica que acompaña los proyectos, no un examen aprobado para siempre.",
+          "practica": "Repite tu autoevaluación inicial, compara las respuestas con cautela y elige un compromiso flexible para el próximo mes. Escribe una carta breve a tu yo futuro sobre cómo quieres relacionarte con el tiempo, el proceso y los errores.",
+          "reflexion": "¿Qué significa ahora para ti aprender a tardar?",
+          "version_minima": "Escribe una frase que quieras conservar.",
+          "completar_sin_escribir": true,
+          "tags": [
+            "integración",
+            "futuro"
+          ]
+        }
+      ]
+    }
+  ],
+  "herramientas": [
+    {
+      "id": "antes-de-abandonar",
+      "nombre": "Antes de abandonar",
+      "instrucciones": [
+        "¿Qué situación concreta tengo delante?",
+        "¿Qué me está diciendo la prisa?",
+        "¿Necesito descansar, reparar, pedir ayuda o hacer un paso pequeño?",
+        "Elige una respuesta y anota si te sirvió."
+      ]
+    },
+    {
+      "id": "primer-paso",
+      "nombre": "Primer paso de un proyecto largo",
+      "instrucciones": [
+        "Escribe por qué te importa.",
+        "Reduce el siguiente movimiento a una acción de 2 a 10 minutos.",
+        "Haz solo esa acción; no prometas terminar la obra.",
+        "Deja una frase de regreso."
+      ]
+    },
+    {
+      "id": "espera",
+      "nombre": "Estoy esperando",
+      "instrucciones": [
+        "¿La espera requiere una acción o información ahora?",
+        "Si sí, actúa o pregunta con claridad.",
+        "Si no, decide cuándo revisarás de nuevo.",
+        "Permite que el intervalo exista sin necesidad de llenarlo."
+      ]
+    },
+    {
+      "id": "error",
+      "nombre": "Algo no ha salido",
+      "instrucciones": [
+        "Describe el hecho sin juzgarte.",
+        "Busca una reparación pequeña.",
+        "Valora investigar, pedir ayuda o pausar.",
+        "Decide sin convertir el error en un veredicto global."
+      ]
+    },
+    {
+      "id": "volver",
+      "nombre": "Volver después de parar",
+      "instrucciones": [
+        "Abre la última versión.",
+        "Lee el puente o localiza el punto actual.",
+        "Trabaja dos minutos si te apetece.",
+        "No tienes que recuperar días perdidos."
+      ]
+    }
+  ],
+  "fuentes_orientativas": [
+    {
+      "organizacion": "NHS",
+      "titulo": "Cognitive behavioural therapy (CBT)",
+      "url": "https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/"
+    },
+    {
+      "organizacion": "NHS",
+      "titulo": "Online self-help CBT techniques",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/"
+    },
+    {
+      "organizacion": "Greater Manchester Mental Health NHS",
+      "titulo": "Behavioural Activation",
+      "url": "https://www.gmmh.nhs.uk/behavioural-activation"
+    },
+    {
+      "organizacion": "US Department of Veterans Affairs",
+      "titulo": "Acceptance and Commitment Therapy therapist manual",
+      "url": "https://www.mirecc.va.gov/visn19/treatmentworksforvets/docs/ACT-D-Therapist-Manual.pdf"
+    }
+  ]
+}

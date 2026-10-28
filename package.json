@@ -1,0 +1,11 @@
+{
+  "name": "paciencia-pwa",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "check": "node --check app/main.js && node --check app/store.js && node --check app/icons.js && node --check sw.js",
+    "serve": "python -m http.server 8080"
+  }
+}

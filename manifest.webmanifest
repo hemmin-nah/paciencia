@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "PACIENCIA — El arte de aprender a tardar",
+  "short_name": "Paciencia",
+  "description": "Curso de 12 semanas para aprender a convivir con el tiempo, los proyectos y las esperas.",
+  "lang": "es-ES",
+  "start_url": "./#/inicio",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#6b785f",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png"},
+    {"src":"./icons/icon-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
