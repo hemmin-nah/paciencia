@@ -39,5 +39,9 @@ test('GitHub Pages: manifest usa rutas relativas y assets precargados',()=>{
  const m=JSON.parse(fs.readFileSync(new URL('../manifest.webmanifest',import.meta.url)));
  assert.equal(m.start_url,'./#/inicio');assert.equal(m.scope,'./');
  const sw=fs.readFileSync(new URL('../sw.js',import.meta.url),'utf8');
- assert.match(sw,/\.\/contenido\/curso.json/);assert.match(sw,/\.\/app\/main.js/);
+ assert.match(sw,/paciencia-offline-1\.0\.1/);
+ const index=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
+ assert.match(index,/id="curso-embebido"/);assert.doesNotMatch(index,/script type="module" src/);
+ const embedded=index.match(/<script id="curso-embebido" type="application\/json">([\s\S]*?)<\/script>/);
+ assert.ok(embedded);assert.deepEqual(JSON.parse(embedded[1]),course);
 });

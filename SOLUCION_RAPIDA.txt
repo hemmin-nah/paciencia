@@ -1,0 +1,10 @@
+SOLUCIÓN RÁPIDA — PACIENCIA
+
+1. DESCARGA y DESCOMPRIME el ZIP corregido.
+2. En GitHub, sustituye index.html por el nuevo (es todo el curso, ¡no solo una pantalla!).
+3. Sustituye sw.js también para evitar páginas antiguas en caché.
+4. Settings > Pages > Source: Deploy from a branch > main > /(root) > Save.
+5. Recarga tu URL con Ctrl+F5 (o pruébala en una ventana privada).
+
+No necesitas .github. Con el nuevo index.html, ni la carpeta app ni la carpeta contenido son necesarias para que aparezca el curso.
+El progreso previo del navegador se mantiene.
